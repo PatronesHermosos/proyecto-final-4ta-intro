@@ -1,4 +1,4 @@
-Etapa 1 del proyecto final
+## Etapa 1 del proyecto final
 
 - Número del equipo: 
 - Nombre del equipo: 
