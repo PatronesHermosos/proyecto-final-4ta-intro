@@ -1,9 +1,9 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 
+- Número del equipo: Cuatro.
 - Nombre del equipo: 
-- Nombre de todos miembros en su equipo:
-- ¿Qué problema global eligieron ustedes?
+- Nombre de todos miembros en su equipo: Angela Gutierrez- Ivett Requena Doria Medina- Verónica Méndez- Fernández Macarena- Alexia Giselle-
+- ¿Qué problema global eligieron ustedes?: Elegimos el objetivo N°5 de ONU, lograr la igualdad de genero y empoderar a todas las mujeres y niñas.
 - ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
 - Describe las tareas que hará cada miembro de su grupo:
