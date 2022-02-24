@@ -1,7 +1,7 @@
 ## Etapa 1 del proyecto final
 
 - Número del equipo: 06
-- Nombre del equipo: coding rangers, code mind   
+- Nombre del equipo: coding rangers, code mind :)  
 - Nombre de todos miembros en su equipo: Carballo Ramírez Hanny, Pamela Suarez, Norali Luna, Natalia Torregrosa
 - ¿Qué problema global eligieron ustedes? ODS 3. Salud mental
 - ¿Porque eligieron ese problema? Consideramos que es un derecho al que todos deberían acceder, porque la salud es un derecho, es algo de lo que casi no se habla y desconocido para muchos, deberiamos preocuparnos o empatizar un poco más para que llegue a más personas.  
