@@ -1,7 +1,7 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 
-- Nombre del equipo: 
+- Número del equipo: 11
+- Nombre del equipo: <h1>Empoderadas</h1>
 - Nombre de todos miembros en su equipo:
 - ¿Qué problema global eligieron ustedes?
 - ¿Porque eligieron ese problema?
