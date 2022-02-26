@@ -1,6 +1,6 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 0
+- Número del equipo: 00
 - Nombre del equipo: 
 - Nombre de todos miembros en su equipo:
 - ¿Qué problema global eligieron ustedes?
