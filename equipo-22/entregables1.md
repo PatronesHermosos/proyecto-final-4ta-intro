@@ -2,8 +2,8 @@
 
 - Número del equipo: 22 
 - Nombre del equipo: 
-- Nombre de todos miembros en su equipo: Ana Karen Gutiérrez Hurtado
-- ¿Qué problema global eligieron ustedes?
+- Integrantes: Leydi Elizabeth Ortiz de Orue Huamani,VERONICA JULY BONIFACIO CONDORI,Ana Karen Gutiérrez Hurtado y 
+- ¿Qué problema global eligieron ustedes?  Elegimos el problema 10.-Reducción de las desigualdades
 - ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
 - Describe las tareas que hará cada miembro de su grupo:
