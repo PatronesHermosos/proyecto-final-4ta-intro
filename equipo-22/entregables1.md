@@ -1,8 +1,8 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 
+- Número del equipo: 22 
 - Nombre del equipo: 
-- Nombre de todos miembros en su equipo:
+- Nombre de todos miembros en su equipo: Ana Karen Gutiérrez Hurtado
 - ¿Qué problema global eligieron ustedes?
 - ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
