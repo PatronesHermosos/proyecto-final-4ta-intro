@@ -1,9 +1,12 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 14
+- Número del equipo:
+-  14
 - Nombre del equipo: 
-- Nombre de todos miembros en su equipo:
+- Nombre de todos miembros en su equipo: 
+- María Fernanda Medina Mendieta, Enidh Miriam Gómez Araujo, Gonzalez Cintia Gisela, Kaybeth Del Carmen Pacheco Artigas.
 - ¿Qué problema global eligieron ustedes?
+-  Ciudades y comunidades sostenibles.
 - ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
 - Describe las tareas que hará cada miembro de su grupo:
