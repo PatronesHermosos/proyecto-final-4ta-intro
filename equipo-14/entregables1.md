@@ -2,7 +2,8 @@
 
 - Número del equipo:
 -  14
-- Nombre del equipo: 
+- Nombre del equipo:
+- Sembrando conciencia 
 - Nombre de todos miembros en su equipo: 
 - María Fernanda Medina Mendieta, Enidh Miriam Gómez Araujo, Gonzalez Cintia Gisela, Kaybeth Del Carmen Pacheco Artigas.
 - ¿Qué problema global eligieron ustedes?
