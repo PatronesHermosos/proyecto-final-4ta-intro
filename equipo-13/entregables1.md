@@ -3,8 +3,8 @@
 - Número del equipo: Equipo 13
 - Nombre del equipo: 
 - Nombre de todos miembros en su equipo: 
-  Leydy Mayumy Coyllo Mamani
-  Catalina García Morales   
+  * Leydy Mayumy Coyllo Mamani
+  * Catalina García Morales   
   Laura Tatiana García Sánchez
   Ingrid Vanessa Álvarez Hernández
   Laura Valentina García Morales
