@@ -24,7 +24,7 @@
 - Describe las tareas que hará cada miembro de su grupo:
 
   * *Leydy Mayumy Coyllo Mamani: Realización del primer mockup referente a la obra de arte.*
-  * *Catalina García Morales.  **COMPLETAR***
+
   * *Laura Tatiana García Sánchez: Búsqueda de artículos e imágenes referentes a la problemática y edición de ellos.* 
   * *Ingrid Vanessa Álvarez Hernández: Investigación de la violencia en distintos países así como noticias.*
   * *Laura Valentina García Morales: Investigación sobre el tema (violancia de género), diseño de bocetos de la página.*
