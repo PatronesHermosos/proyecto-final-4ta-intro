@@ -29,5 +29,4 @@
   * *Ingrid Vanessa Álvarez Hernández: Investigación de la violencia en distintos países así como noticias.*
   * *Laura Valentina García Morales: **COMPLETAR***
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
-
-No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
+	[Click para ir al video de presentación](https://youtu.be/U0tuMJzKzKg)
