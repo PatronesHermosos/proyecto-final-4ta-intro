@@ -27,6 +27,6 @@
   * *Catalina García Morales.  **COMPLETAR***
   * *Laura Tatiana García Sánchez: Búsqueda de artículos e imágenes referentes a la problemática y edición de ellos.* 
   * *Ingrid Vanessa Álvarez Hernández: Investigación de la violencia en distintos países así como noticias.*
-  * *Laura Valentina García Morales: **COMPLETAR***
+  * *Laura Valentina García Morales: Investigación sobre el tema (violancia de género), diseño de bocetos de la página. *
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 	[Click para ir al video de presentación](https://youtu.be/U0tuMJzKzKg)
