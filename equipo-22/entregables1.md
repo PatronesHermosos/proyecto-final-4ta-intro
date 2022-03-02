@@ -6,7 +6,7 @@
 - Nombre del equipo:
 - Powerful girls 22.
 
-- Integrantes:
+- Nombre de todos los miembros en su equipo:
 - Leydi Elizabeth Ortiz de Orue Huamani,Veronica July Bonifacio Condori,Ana Karen Gutiérrez Hurtado y Naydelin Gecel Orellana Choque.
 
 - ¿Qué problema global eligieron ustedes? 
