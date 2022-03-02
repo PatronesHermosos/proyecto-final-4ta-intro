@@ -9,7 +9,7 @@
   * Ingrid Vanessa Álvarez Hernández.
   * Laura Valentina García Morales.
 - ¿Qué problema global eligieron ustedes? 
-*Violencia de género.
+*Violencia de género.*
 - ¿Porque eligieron ese problema? 
 *Es una problemática global que elegimos abordar a causa de el alto índice de violencia generada en muchos países y la poca acción de la justicia frente a estos casos tan delicados.
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
