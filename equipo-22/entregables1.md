@@ -1,11 +1,7 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 
-- Equipo 22 .
-
-- Nombre del equipo:
-- Powerful girls 22.
-
+- Número del equipo:  Equipo #22
+- Nombre del equipo: Powerful Girls 22
 - Nombre de todos los miembros en su equipo:
 - Ana Karen Gutiérrez Hurtado,Leydi Elizabeth Ortiz de Orue Huamani,Veronica July Bonifacio Condori y Naydelin Gecel Orellana Choque.
 
