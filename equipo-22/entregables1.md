@@ -2,9 +2,7 @@
 
 - Número del equipo:  Equipo #22
 - Nombre del equipo: Powerful Girls 22
-- Nombre de todos los miembros en su equipo:
-- Ana Karen Gutiérrez Hurtado,Leydi Elizabeth Ortiz de Orue Huamani,Veronica July Bonifacio Condori y Naydelin Gecel Orellana Choque.
-
+- Nombre de todos los miembros en su equipo: Ana Karen GutiérrezHurtado,Leydi Elizabeth Ortiz de Orue Huamani,Veronica July Bonifacio Condori y Naydelin Gecel Orellana Choque
 - ¿Qué problema global eligieron ustedes? 
 - Elegimos abordar el decimo objetivo de las naciones unidas:10.-Reducción de las desigualdades y garantizar que nadie se quede atrás fundamentalmente para alcanzar objetivos de desarrollo sustentable.
 
