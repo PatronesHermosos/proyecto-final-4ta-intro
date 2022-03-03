@@ -1,8 +1,12 @@
 ## Etapa 1 del proyecto final
 
 - Número del equipo: 12
-- Nombre del equipo: 
+- Nombre del equipo: Equidad
 - Nombre de todos miembros en su equipo:
+-  Diana Guaiña
+-  Esther Sandoval
+-  Denise López
+-  
 - ¿Qué problema global eligieron ustedes?
 - ¿Porque eligieron ese problema?
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
