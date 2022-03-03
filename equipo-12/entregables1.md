@@ -8,7 +8,7 @@
 -  Denise López
 -  Ana Fernández
 - ¿Qué problema global eligieron ustedes?
--  Igualdad de géner
+-  Igualdad de género
 - ¿Porque eligieron ese problema? 
 -  La brecha laboral  entre mujeres y hombres.
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
