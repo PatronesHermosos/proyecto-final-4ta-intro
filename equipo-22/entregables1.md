@@ -15,6 +15,6 @@ ANA: Buscar información sobre las desigualdades en el mundo y usar CSS.
 LEYDI: Buscar imágenes de mapas y usar HTML.JULY: Buscar imágenes de personas y usar Java Script.
 GECEL: Hacer las historias de las distintas personas,usar Bootstrap,google,w3schools y Paint.
 .
-- Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:https://youtu.be/-62Yy230KXI
+- Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:https://youtu.be/IbBkRSxciRo
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
