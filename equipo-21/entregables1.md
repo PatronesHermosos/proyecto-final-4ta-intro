@@ -4,7 +4,7 @@
 - Nombre del equipo: LOVELACE
 - Nombre de todos miembros en su equipo: 
      Karol Avendaño
-     S  andra Liliana Pérez 
+     Sandra Liliana Pérez 
      Sorele Martínez
      Wendy Malpica
      
