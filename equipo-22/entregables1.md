@@ -12,8 +12,7 @@
 - Describe las tareas que hará cada miembro de su grupo:
 Por el momento las tareas asignadas son:
 ANA: Buscar información sobre las desigualdades en el mundo y usar CSS.
-LEYDI: Buscar imágenes de mapas y usar HTML.
-JULY: Buscar imágenes de personas y usar Java Script.
+LEYDI: Buscar imágenes de mapas y usar HTML.JULY: Buscar imágenes de personas y usar Java Script.
 GECEL: Hacer las historias de las distintas personas,usar Bootstrap,google,w3schools y Paint.
 .
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
