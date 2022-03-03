@@ -10,7 +10,7 @@ Especificamente en los paises de Argentina, Colombia y Mexico. Recabando informa
 - Describe las tareas que hará cada miembro de su grupo:
 -Ailen:diseño del boceto a compartir
 -Nati:  elaboracion del guion en el video
--Rebecca: Edito y subio el video
+-Rebecca: produccion  del audiovisual
 
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 -Ingresar link aqui:
