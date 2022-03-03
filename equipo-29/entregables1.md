@@ -9,7 +9,7 @@
 Especificamente en los paises de Argentina, Colombia y Mexico. Recabando información en nuestra pagina web a traves de formularios o encuestas donde las personas podran expresar su opinion frente a la realidad que ellos que viven dia a dia.
 - Describe las tareas que hará cada miembro de su grupo:
 -Ailen:diseño visua
--Nati: Parte logica
+-Nati:  elaboracion del guion en el video
 -Rebecca: Edito y subio el video
 
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
