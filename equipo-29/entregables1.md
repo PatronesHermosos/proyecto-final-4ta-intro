@@ -8,7 +8,7 @@
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):Nuestro aporte sera crear un a pagina web en donde se visibiliza la situacion  del trabajo digno en  Argentina, Colombia y Mexico. El objetivo seria que las personas de esos paises respondieran una encuesta, y se les brindara informacion de la problematica de trabajo decente en cada pais. Reflejar de manera visual con nuestra pieza de arte, la estadistica mas actual que se vive en latinoamerica.
 Especificamente en los paises de Argentina, Colombia y Mexico. Recabando información en nuestra pagina web a traves de formularios o encuestas donde las personas podran expresar su opinion frente a la realidad que ellos que viven dia a dia.
 - Describe las tareas que hará cada miembro de su grupo:
--Ailen:diseño visua
+-Ailen:diseño del boceto a compartir
 -Nati:  elaboracion del guion en el video
 -Rebecca: Edito y subio el video
 
