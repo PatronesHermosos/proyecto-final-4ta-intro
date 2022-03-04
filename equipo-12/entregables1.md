@@ -23,5 +23,5 @@ Enlace a documentales o videos de las últimas investigaciones o logros sobre ig
 -    Esther:  Títulos, pestañas del menú y su interactividad; y análisis del código.
 -    Todas:  Entregas a Github, diseño o arte en la pestaña de inicio, definir contenido de las pestañas, y testeo del código por sesiones de zoom.
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
-
+https://youtu.be/8GOAreh4xWk
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
