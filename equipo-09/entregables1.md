@@ -9,4 +9,6 @@
 - Describe las tareas que hará cada miembro de su grupo: Pretendemos dividir el proyecto en cuatro principales cuadrantes o segmentos,para que cada integrante del equipo tenga la oportunidad de contribuir con su arte. Sin embargo, durante el proceso, planeamos apoyarnos mutuamente y aprender unas de otras, por lo que el proyecto estará realizado con un esfuerzo equitativo. 
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 https://youtu.be/GZPMK4nBGao
-.
+a
+b
+c
