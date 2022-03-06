@@ -1,7 +1,7 @@
 ## Etapa 1 del proyecto final
 
 - Número del equipo: 18 
-- 
+
 - Nombre del equipo: (C+H) A
 
 - Nombre de todos miembros en su equipo: 
