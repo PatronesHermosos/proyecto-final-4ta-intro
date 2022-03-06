@@ -8,5 +8,6 @@
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Crearemos una plataforma donde brindaremos información de distintos voluntariados hacia personas que deseen contribuir a la educación de niños de bajos recursos a través de diferentes medios.
 - Describe las tareas que hará cada miembro de su grupo: Todas las participantes colaborarán en el desarrollo del código en HTML, CSS y Javascript
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
+- https://drive.google.com/drive/folders/1v6ZXpz4_o-56BcSej8fZY3WbhitUQtdb?usp=sharing 
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
