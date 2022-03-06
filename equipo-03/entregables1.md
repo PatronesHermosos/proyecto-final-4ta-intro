@@ -7,9 +7,7 @@
 Durante la extracción de recursos naturales se obtienen materias primas y energía de la naturaleza para producir bienes y servicios. Muchos de estos recursos no son renovables o se regeneran muy lentamente, lo que supone un problema doble: por un lado estamos alternando los ciclos o la capacidad de regeneración de algunos recursos , como por ejemplo el ciclo del agua.  Y por otro lado estamos produciendo materias primas y energía de manera muy contaminante; por ejemplo, con la quema de combustibles fósiles.
 Durante la elaboración se introducen sustancias químicas perjudiciales que facilitan y aumentan la producción, se deslocaliza la producción a países en vías de desarrollo que en muchas ocasiones incumplen mínimos legales y se generan subproductos contaminantes o tóxicos.
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
-- Describe las tareas que hará cada miembro de su grupo:Carolline: Investigación
-Gabriela: Dise
-Adriana: Recursos 
+- Describe las tareas que hará cada miembro de su grupo: Carolline: Investigación, Gabriela: Diseño, Adriana: Recursos 
 Segun avancemos nuestro Proyecto dividiremos los elementos del arte y el Código 
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
