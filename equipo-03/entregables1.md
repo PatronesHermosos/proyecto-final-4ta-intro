@@ -9,6 +9,6 @@ Durante la elaboración se introducen sustancias químicas perjudiciales que fac
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
 - Describe las tareas que hará cada miembro de su grupo: Carolline: Investigación, Gabriela: Diseño, Adriana: Recursos 
 Segun avancemos nuestro Proyecto dividiremos los elementos del arte y el Código 
-- Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:https://youtu.be/2Hk7p6CPOqs
-
+- Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí: 
+https://youtu.be/3cPxbiXGA7A
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
