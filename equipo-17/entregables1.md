@@ -10,3 +10,5 @@
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí: https://youtu.be/Wn4UpBPlpZI
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
+
+![Dibujo_Propuesta del proyecto_Etapa 1](https://user-images.githubusercontent.com/100361188/156972320-28a05d42-90e6-412f-be48-8e6fa77319ca.jpeg)
