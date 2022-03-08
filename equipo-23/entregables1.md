@@ -8,10 +8,10 @@ Ximena González Guerra Villarreal
 Nadiedja Luna Baez
 Danna Lorena Morales Bobadilla
 - ¿Qué problema global eligieron ustedes?
-    Acción por el clima, Agua limpia y saneamiento 
+   Igualdad de género, Acción por el clima, Agua limpia y saneamiento 
 
 - ¿Porque eligieron ese problema?
-
+debido a los intereses de los miembros del grupo en el área educativa y el interes en el cuidado del medioambiente
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
 Elaborar una página informativa que incluya un juego interactivo para informar sobre el cuidado del agua, en un juego interactivo, en el que el usuario pueda aprender sobre los distintos factores que afectan la hidrosfera, al igual que las acciones que se pueden tomar para reducir la contaminación del agua.
 
