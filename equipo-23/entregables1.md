@@ -1,7 +1,7 @@
 ## Etapa 1 del proyecto final
 
 - Número del equipo: 23
-- Nombre del equipo: 
+- Nombre del equipo: Equipo Berta Cáceres
 - Nombre de todos miembros en su equipo:
 Yeny Katerine Herrera Diaz,
 Ximena González Guerra Villarreal,
