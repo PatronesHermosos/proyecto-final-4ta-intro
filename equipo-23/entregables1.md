@@ -3,6 +3,10 @@
 - Número del equipo: 23
 - Nombre del equipo: 
 - Nombre de todos miembros en su equipo:
+Yeny Katerine Herrera Diaz
+Ximena González Guerra Villarreal
+Nadiedja Luna Baez
+Danna Lorena Morales Bobadilla
 - ¿Qué problema global eligieron ustedes?
     Acción por el clima, Agua limpia y saneamiento 
 
@@ -12,7 +16,7 @@
 Elaborar una página informativa que incluya un juego interactivo para informar sobre el cuidado del agua, en un juego interactivo, en el que el usuario pueda aprender sobre los distintos factores que afectan la hidrosfera, al igual que las acciones que se pueden tomar para reducir la contaminación del agua.
 
 - Describe las tareas que hará cada miembro de su grupo:
-- Diapositiva 1: El resumen, nombre del equipo (23) , nombres de las integrantes. 
+Diapositiva 1: El resumen, nombre del equipo (23) , nombres de las integrantes. 
 Encargada: Xime
 Diapositiva 2: Presentarnos (nombre, de dónde somos, por qué tomamos el curso, cualquier otra cosa) 10 segundos x persona. 
 
@@ -66,3 +70,4 @@ Tiempo: 30 segundos
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
+<img width="346" alt="image" src="https://user-images.githubusercontent.com/100481289/157168708-8b513c1f-9b63-44f9-8ab6-6049ddf4731f.png">
