@@ -15,6 +15,6 @@ Agustina: Mujer dice no es tu culpa, económico
 Angeles: Sexual, mujer empoderada sanando
 Cristina: Patrimonial, físico, discriminación
 
-- Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí: https://youtu.be/9_RPVUsfrYM
+- Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo https://youtu.be/Gnam9esWAcw
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
