@@ -3,9 +3,9 @@
 - Número del equipo: 23
 - Nombre del equipo: 
 - Nombre de todos miembros en su equipo:
-Yeny Katerine Herrera Diaz
-Ximena González Guerra Villarreal
-Nadiedja Luna Baez
+Yeny Katerine Herrera Diaz,
+Ximena González Guerra Villarreal,
+Nadiedja Luna Baez y
 Danna Lorena Morales Bobadilla
 - ¿Qué problema global eligieron ustedes?
    Igualdad de género, Acción por el clima, Agua limpia y saneamiento 
@@ -16,8 +16,10 @@ debido a los intereses de los miembros del grupo en el área educativa y el inte
 Elaborar una página informativa que incluya un juego interactivo para informar sobre el cuidado del agua, en un juego interactivo, en el que el usuario pueda aprender sobre los distintos factores que afectan la hidrosfera, al igual que las acciones que se pueden tomar para reducir la contaminación del agua.
 
 - Describe las tareas que hará cada miembro de su grupo:
+
 Diapositiva 1: El resumen, nombre del equipo (23) , nombres de las integrantes. 
 Encargada: Xime
+
 Diapositiva 2: Presentarnos (nombre, de dónde somos, por qué tomamos el curso, cualquier otra cosa) 10 segundos x persona. 
 
 Diapositiva 3: El problema ¿qué problema abordará? ¿por qué lo elegimos? ¿por qué es importante? 
