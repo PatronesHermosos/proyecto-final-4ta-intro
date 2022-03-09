@@ -11,6 +11,6 @@
 - Sofía: Junto los videos y lo subió a Youtube.
 - Dayanna: Hizo los dibujos. 
 - Naty: Esta llenando el formulario
-- Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
+- Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí: https://youtu.be/Cg9ezPtLeA8
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
