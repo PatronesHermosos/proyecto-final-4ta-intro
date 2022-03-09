@@ -13,7 +13,7 @@ Especificamente en los paises de Argentina, Colombia y Mexico. Recabando informa
 -Rebecca: produccion  del audiovisual
 
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
--Ingresar link aqui:
+-Ingresar link aqui:https://youtu.be/wiR4DDHIQGI
 
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
 
