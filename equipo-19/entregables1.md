@@ -1,7 +1,7 @@
 ## Etapa 1 del proyecto final
 
-- Número del equipo: 
-- Nombre del equipo: 
+- Número del equipo: equipo #19 
+- Nombre del equipo: Patrones Verdes
 - Nombre de todos miembros en su equipo:
 - ¿Qué problema global eligieron ustedes?
 - ¿Porque eligieron ese problema?
