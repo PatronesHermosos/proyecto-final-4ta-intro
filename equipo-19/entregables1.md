@@ -16,7 +16,7 @@
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS):
 - NUESTRO PROYECTO FINAL, BUSCA EL CUIDADO DEL MEDIO AMBIENTE Y EL USO RESPONSABLE DE LOS RECURSOS NATURALES DE FORMA QUE, LAS FUTURAS GENERACIONES PUEDAN DISFRUTARLO DE LA MISMA FORMA QUE LO HACEMOS NOSOTROS. 
 - Describe las tareas que hará cada miembro de su grupo:
-- DIVISIÓN DE LAS RESPONSABILIDADES Y APORTES POR CADA MIEMBRO DEL EQUIPO, ASIGNAR A CADA PARTICIPANTE UNA PARTE DEL CÓDIGO, TRABAJAR EN CSS, BUSQUEDA Y ORGANIZACIÓN DE LA ESTRUCTURA Y MAQUETACIÓN DEL CODIGO EN HTML Y JS, PRESENTACIÓN DEL PROYECTO. 
+- DIVISIÓN DE LAS RESPONSABILIDADES Y APORTES POR CADA MIEMBRO DEL EQUIPO, ASIGNAR A CADA PARTICIPANTE UNA PARTE DEL CÓDIGO, TRABAJAR EN CSS, BUSQUEDA DEL BANCO DE IMÁGENES, ORGANIZACIÓN DE LA ESTRUCTURA Y MAQUETACIÓN DEL CODIGO EN HTML Y JS, PRESENTACIÓN DEL PROYECTO. 
 - Graben un video de 5-min usando el modelo “Entrega 1 Proyecto Final Patrones Hermosos” y pongan el link de su vídeo en YouTube/Vimeo aquí:
 https://youtu.be/T7_MefMWx0Y
 No se olviden de diseñar su obra en un papel y incluir una foto de este dibujo en el vídeo entregable.
