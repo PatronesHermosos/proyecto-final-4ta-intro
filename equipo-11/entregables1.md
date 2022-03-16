@@ -3,7 +3,7 @@
 - Número del equipo: 11
 - Nombre del equipo: <h1>Empoderadas</h1>
 - Nombre de todos miembros en su equipo: Diana Cabral, Angeles Iriarte, Agustina Montiel, Cristina Panchi 
-- ¿Qué problema global eligieron ustedes? Igualdad de Género
+- ¿Qué problema global eligieron ustedes? Desigualdad de Género
 - ¿Porque eligieron ese problema? Porque nos identificamos la problemática al ser mujeres y ver de cerca esta realidad en nuestros países
 - Describan la solución tentativa a ese problema que mostrarán en su proyecto final (el proyecto final será una pieza de arte escrito en JavaScript y HTML y CSS): Buscar que las mujeres se animen a hablarlo y apoyarse en grupos para erradicarlo
 Poner fin a la violencia de género mediante charlas de concientización, y un equipo de contención: psicólogas, abogadas
