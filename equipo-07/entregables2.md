@@ -14,4 +14,5 @@
 - ¿Cómo añadimos nuestras imágenes png a la página html?
 - ¿Cómo animamos nuestros recursos?
 - ¿Cómo hacer que al dar click en una imagen aparezca un recuadro de información?
+- ¿Hay manera en el que, haciendo click en un recuadro de la página web, ésta se redirija a otra plantilla donde pueda mostrar otro tipo de información?
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
