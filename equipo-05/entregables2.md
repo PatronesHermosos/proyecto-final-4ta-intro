@@ -1,8 +1,8 @@
 ## Etapa 2 del proyecto final
 
-- Numero del equipo: 
-- Nombre del equipo:
-- Nombre de todos miembros en su equipo:
+- Numero del equipo: 5
+- Nombre del equipo: Las Pléyades
+- Nombre de todos miembros en su equipo: Yanet Trejo, Dayanna Paniagua, Sofia Albarracin y Natalia Dalmau Vallejos.
 - El título de su proyecto:
 - La lista de recursos y referencias que han usado:
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
