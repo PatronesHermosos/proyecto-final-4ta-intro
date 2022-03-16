@@ -1,0 +1,151 @@
+<!-- Código para crear un arbol desde CodePen -->
+<!-- https://codepen.io/Bew_Uj/pen/dyZgRmW -->
+
+<style>
+    .frame {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 400px;
+  height: 400px;
+  margin-top: -200px;
+  margin-left: -200px;
+  border-radius: 2px;
+	box-shadow: 4px 8px 16px 0 rgba(0,0,0,0.1);
+	overflow: hidden;
+  background: #dafcc2;
+  color: #333;
+	font-family: 'Open Sans', Helvetica, sans-serif;
+	-webkit-font-smoothing: antialiased;
+	-moz-osx-font-smoothing: grayscale;
+}
+
+#tree {
+	position: absolute;
+  top: 50%;
+  left: 50%;
+	height: 100%;
+
+	transform: translate(-50%,-50%);
+}
+
+#leaves {
+	position: absolute;
+	top: 15px;
+	left: -35px;
+	
+	border-left: 85px solid transparent;
+  border-right: 85px solid transparent;
+  border-bottom: 270px solid green;
+		
+	transform: scaleX(0);	
+	animation: leaves-growth 1s ease-in-out 1s forwards;
+}
+
+#leaves > div {
+	position: absolute;
+	top: 0;
+	left: 0;
+	
+  border-left: 0px solid transparent;
+  border-right: 85px solid transparent;
+  border-bottom: 270px solid gold;
+	opacity: 0.6;
+}
+
+#trunk {
+	position: relative;
+	top: 84px;
+	left: 48px;
+	width: 6px;
+	height: 275px;
+	
+	border-radius: 5px 5px 0 0 ;
+	background: #fcd780;
+	
+	transform: scaleY(0);
+	transform-origin: 0 100%;
+	animation: trunc-growth 1s ease-in-out forwards;
+}
+
+@mixin branch-properties($top, $left, $width, $height, $rotation) {
+	position: relative;
+	top: $top;
+	left: $left;
+	width: $width;
+	height: $height;
+	
+	border-radius: 5px 5px 0 0 ;
+	background: #fcd780;
+	
+	transform: rotate($rotation);
+}
+
+.branch:nth-of-type(1) {
+	@include branch-properties(10px, -7px, 5px, 30px, -30deg);
+}
+
+.branch:nth-of-type(2) {
+	@include branch-properties(-5px, 10px, 7px, 35px, -320deg);
+}
+
+.branch:nth-of-type(3) {
+	@include branch-properties(-10px, -12px, 6px, 50px, -30deg);
+}
+
+.branch:nth-of-type(4) {
+	@include branch-properties(-10px, 18px, 6px, 50px, -310deg);
+}
+
+.branch:nth-of-type(5) {
+	@include branch-properties(-25px, -15px, 7px, 60px, -30deg);
+}
+
+#base {
+	position: relative;
+	top: 80px;
+	left: 0px;
+	width: 100px;
+	height: 7px;
+	
+	border-radius: 3px;
+	background: #895c18;
+
+	transform: scaleX(0);
+	animation: base-growth 1s ease-in-out forwards;
+}
+
+@keyframes leaves-growth {
+	to {
+		transform: scaleX(1);
+	}
+}
+
+@keyframes trunc-growth {
+	to {
+		transform: scaleY(1);
+	}
+}
+
+@keyframes base-growth {
+	to {
+		transform: scaleX(1);
+	}
+}
+</style>
+
+<div class="frame">
+	<div id="tree">	
+		<div id="leaves">
+			<div></div>
+		</div>
+		<div id="trunk">
+			<div class="branch"></div>
+			<div class="branch"></div>
+			<div class="branch"></div>
+			<div class="branch"></div>
+			<div class="branch"></div>
+		</div>
+		<div id="base"></div>
+	</div>
+</div>
