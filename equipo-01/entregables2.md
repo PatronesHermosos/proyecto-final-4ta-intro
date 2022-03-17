@@ -1,7 +1,7 @@
 ## Etapa 2 del proyecto final
 
-- Numero del equipo: 
-- Nombre del equipo:
+- Numero del equipo: Equipo 01
+- Nombre del equipo: 
 - Nombre de todos miembros en su equipo:
 - El título de su proyecto:
 - La lista de recursos y referencias que han usado:
