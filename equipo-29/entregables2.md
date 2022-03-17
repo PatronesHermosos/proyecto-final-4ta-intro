@@ -1,8 +1,10 @@
 ## Etapa 2 del proyecto final
 
-- Numero del equipo: 29
-- Nombre del equipo: WORKMAC
-- Nombre de todos miembros en su equipo: Ailen, Natalia y  Rebeca
+- Número del equipo: 29
+
+- Nombre del equipo: WORK MAC
+
+- Nombre de todos miembros en su equipo: Ailen Gusman Deresz, Maria Nataly Quiroga Olaya, Rebeca Towar
 - El título de su proyecto: Trabajo Digno
 - La lista de recursos y referencias que han usado : Plantilla de Boopstrap (Carrrusel) , HTML, CSS
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
