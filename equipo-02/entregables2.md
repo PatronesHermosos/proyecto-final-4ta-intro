@@ -7,6 +7,7 @@
 - La lista de recursos y referencias que han usado:
 https://www.worldenergytrade.com/oil-gas/general/fracking-y-energias-limpias-debate-en-la-carrera-de-2020-por-la-casa-blanca
 https://www.lasalle.edu.co/Noticias/UnisalleNoticias/uls/De+que+forma+afecta+el+fracking+el+medio+ambiente
+https://desarrolloweb.com/articulos/600.php#:~:text=El%20hecho%20de%20utilizar%20el,texto%20de%20una%20manera%20sencilla
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
 
