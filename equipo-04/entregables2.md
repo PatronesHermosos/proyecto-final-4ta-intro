@@ -9,3 +9,4 @@
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí: 1.- Sugerencias para hacer interactivo los botones (poder hacer que los globos de información se despleguen cuando se le dé click). 2.- Sugerencias de código para cambiar el estilo de fuente. 
 
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
+*****
