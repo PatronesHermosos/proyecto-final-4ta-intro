@@ -3,7 +3,7 @@
 - Numero del equipo: 12
 - Nombre del equipoe:  EQUIDAD
 - Nombre de todos miembros en su equipo
-    DIANA GUAIÑA
+   
     
 - El título de su proyecto:
 - La lista de recursos y referencias que han usado:
