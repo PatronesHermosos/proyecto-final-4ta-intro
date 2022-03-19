@@ -4,7 +4,7 @@
 - Nombre del equipo: Empoderadas
 - Nombre de todos miembros en su equipo: Diana Cabral, Angeles Iriarte, Agustina Montiel, Cristina Panchi
 - El título de su proyecto: Erradicando la Violencia hacia la Mujer
-- La lista de recursos y referencias que han usado: bootstrap (carousel); pexels (imagenes free), platzi (código corazón),
+- La lista de recursos y referencias que han usado: bootstrap (carousel); pexels, freepik.es (imagenes free), platzi (código corazón),
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí:
 
