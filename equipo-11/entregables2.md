@@ -10,3 +10,4 @@
 
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
 - La web está en el repositorio: https://github.com/DiMeCaCe/Web-Empoderadas.git
+- Link - Video de la web: https://youtu.be/kJeqif480Jg
