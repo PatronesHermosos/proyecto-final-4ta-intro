@@ -11,3 +11,236 @@
 - Escriban las preguntas/dudas que tienen sobre su proyecto y/o su código para las moderadoras. Cuando las moderadoras les escribirán con retroalimentación en el foro, incluirán sugerencias a estas preguntas. Añadan sus preguntas aquí: Avance del Proyecto. Estamos usando la plantilla carrusel y la estamos modificando. Tenemos dudas para agregar imágenes en cada bloque que está en color gris. Hay 3 portadas intenta agregar una cuarta pero no logro visualizarla. Aun estamos con el tema de las imágenes esperamos pronto resolverlo :smiley: Nos falta mucho por complementar en la página espero sea de agrado nuestro avance.
 
 No se olviden de entregar el código que ustedes han escrito para el proyecto final. Instrucciones para subir archivos a Github están disponibles en la plataforma.
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="Mark Otto, Jacob Thornton, and Bootstrap contributors">
+    <meta name="generator" content="Hugo 0.55.4">
+    <title>Trabajo Digno · WORKMAC</title>
+
+    <link rel="canonical" href="https://getbootstrap.comdocs/4.3/examples/carousel/">
+
+    
+
+    <!-- Bootstrap core CSS -->
+<link href="docs/4.3/dist/css/bootstrap.css" rel="stylesheet">
+
+
+
+    <!-- Favicons -->
+<link rel="apple-touch-icon" href="docs/4.3/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
+<link rel="icon" href="docs/4.3/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
+<link rel="icon" href="docs/4.3/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
+<link rel="manifest" href="docs/4.3/assets/img/favicons/manifest.json">
+<link rel="mask-icon" href="docs/4.3/assets/img/favicons/safari-pinned-tab.svg" color="#563d7c">
+<link rel="icon" href="docs/4.3/assets/img/favicons/favicon.ico">
+<meta name="msapplication-config" content="docs/4.3/assets/img/favicons/browserconfig.xml">
+<meta name="theme-color" content="#563d7c">
+
+
+    <style>
+      .bd-placeholder-img {
+        font-size: 1.125rem;
+        text-anchor: middle;
+        -webkit-user-select: none;
+        -moz-user-select: none;
+        -ms-user-select: none;
+        user-select: none;
+      }
+
+      @media (min-width: 768px) {
+        .bd-placeholder-img-lg {
+          font-size: 3.5rem;
+        }
+      }
+    </style>
+
+    
+    <!-- Custom styles for this template -->
+    <link href="carousel.css" rel="stylesheet">
+  </head>
+  <body>
+    
+<header>
+  <nav class="navbar navbar-expand-md navbar-dark fixed-top bg-dark">
+    <a class="navbar-brand" href="#">Trabajo Digno</a>
+    <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarCollapse" aria-controls="navbarCollapse" aria-expanded="false" aria-label="Toggle navigation">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+    <div class="collapse navbar-collapse" id="navbarCollapse">
+      <ul class="navbar-nav mr-auto">
+        <li class="nav-item active">
+          <a class="nav-link" href="#">México <span class="sr-only">(current)</span></a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link" href="#">Argentina</a>
+        </li>
+        <li class="nav-item">
+          <a class="nav-link disabled" href="#" tabindex="-1" aria-disabled="true">Colombia</a>
+        </li>
+      </ul>
+      <form class="form-inline mt-2 mt-md-0">
+        <input class="form-control mr-sm-2" type="text" placeholder="Buscar" aria-label="Buscar">
+        <button class="btn btn-outline-success my-2 my-sm-0" type="submit">Buscar</button>
+      </form>
+    </div>
+  </nav>
+</header>
+
+<main role="main">
+
+  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+    <ol class="carousel-indicators">
+      <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
+      <li data-target="#myCarousel" data-slide-to="1"></li>
+      <li data-target="#myCarousel" data-slide-to="2"></li>
+      <li data-target="#myCarousel" data-slide-to="3"></li>
+
+    </ol>
+    <div class="carousel-inner">
+      <div class="carousel-item active">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+
+        <div class="container">
+          <div class="carousel-caption text-left">
+            <h1>WORK MAC presenta Trabajo Digno</h1>
+            <p>El trabajo es escencial para una vida plena y digna. Te invito a conocer más de ello.</p>
+            <p><a class="btn btn-lg btn-primary" href="#" role="button">Vísitanos hoy</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+    
+        <div class="container">
+          <div class="carousel-caption">
+            <h1>México y Trabajo Digno.</h1>
+            <p>La realidad de muchos Mexicanos a traves de los años. Todos desean un trabajo digno pero no todo acceden a él</p>
+            <p><a class="btn btn-lg btn-primary" href="#" role="button">Leer más</a></p>
+          </div>
+        </div>
+      </div>
+      <div class="carousel-item">
+        <svg class="bd-placeholder-img" width="100%" height="100%" xmlns="http://www.w3.org/2000/svg" preserveAspectRatio="xMidYMid slice" role="img"><rect width="100%" height="100%" fill="#777"/></svg>
+
+        <div class="container">
+          <div class="carousel-caption text-right">
+            <h1>Argentina y Trabajo Digno</h1>
+            <p>El trabajo Digno como lo vivimos los argentinos, es una realidad o esta mas cerca de la ficción</p>
+            <p><a class="btn btn-lg btn-primary" href="#" role="button">Ver información</a></p>
+          </div>
+        </div>
+      </div>
+    </div>
+
+    <a class="carousel-control-prev" href="#myCarousel" role="button" data-slide="prev">
+      <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+      <span class="sr-only">Previous</span>
+    </a>
+    <a class="carousel-control-next" href="#myCarousel" role="button" data-slide="next">
+      <span class="carousel-control-next-icon" aria-hidden="true"></span>
+      <span class="sr-only">Next</span>
+    </a>
+  </div>
+
+
+  <!-- Marketing messaging and featurettes
+  ================================================== -->
+  <!-- Wrap the rest of the page in another container to center all the content. -->
+
+  <div class="container marketing">
+
+    <!-- Three columns of text below the carousel -->
+    <div class="row">
+      <div class="col-lg-4">
+        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+
+        <h2>México</h2>
+        <p>°Empleo Pleno y Productivo <br> °Desigualdad Salarial por Sexo <br> °Desempleo en Jovenes <br> °Eliminación del Trabajo Infantil <br> °Formalización de la Economía Informal <br> °Comunidad Emprededora: Pequeñas y Medianas Empresas <br> °Derechos Laborales y Entorno Seguro<br> °Trabajadores Migratorios </p>
+        <p><a class="btn btn-secondary" href="#" role="button">Ver más &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+
+        <h2>Argentina</h2>
+        <p>°Empleo Pleno y Productivo <br> °Desigualdad Salarial por Sexo <br> °Desempleo en Jovenes <br> °Eliminación del Trabajo Infantil <br> °Formalización de la Economía Informal <br> °Comunidad Emprededora: Pequeñas y Medianas Empresas <br> °Derechos Laborales y Entorno Seguro<br> °Trabajadores Migratorios</p>
+        <p><a class="btn btn-secondary" href="#" role="button">Ver más &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+      <div class="col-lg-4">
+        <svg class="bd-placeholder-img rounded-circle" width="140" height="140" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 140x140" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#777"/><text x="50%" y="50%" fill="#777" dy=".3em">140x140</text></svg>
+
+        <h2>Colombia</h2>
+        <p>°Empleo Pleno y Productivo <br> °Desigualdad Salarial por Sexo <br> °Desempleo en Jovenes <br> °Eliminación del Trabajo Infantil <br> °Formalización de la Economía Informal <br> °Comunidad Emprededora: Pequeñas y Medianas Empresas <br> °Derechos Laborales y Entorno Seguro<br> °Trabajadores Migratorios</p>
+        <p><a class="btn btn-secondary" href="#" role="button">Ver más &raquo;</a></p>
+      </div><!-- /.col-lg-4 -->
+    </div><!-- /.row -->
+
+
+    <!-- START THE FEATURETTES -->
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">Empleo Pleno y Productivo <span class="text-muted">México</span></h2>
+        <p class="lead">Descripción sobre el empleo productivo y pleno. Los mexicanos en 2022 cuenta con un empleo pleno o estan lejos de tenerlo. Expectiva vs Realidad </p>
+      </div>
+      <div class="col-md-5">
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7 order-md-2">
+        <h2 class="featurette-heading">Empleo Pleno y Productivo <span class="text-muted">Argentina</span></h2>
+        <p class="lead">Descripción sobre el empleo productivo y pleno. Los argentinos en 2022 cuenta con un empleo pleno o estan lejos de tenerlo. Expectiva vs Realidad</p>
+      </div>
+      <div class="col-md-5 order-md-1">
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <div class="row featurette">
+      <div class="col-md-7">
+        <h2 class="featurette-heading">Empleo Pleno y Productivo <span class="text-muted">Colombia</span></h2>
+        <p class="lead">Descripción sobre el empleo productivo y pleno. Los colombianos en 2022 cuenta con un empleo pleno o estan lejos de tenerlo. Expectiva vs Realidad</p>
+      </div>
+      <div class="col-md-5">
+        <svg class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" xmlns="http://www.w3.org/2000/svg" aria-label="Placeholder: 500x500" preserveAspectRatio="xMidYMid slice" role="img"><title>Placeholder</title><rect width="100%" height="100%" fill="#eee"/><text x="50%" y="50%" fill="#aaa" dy=".3em">500x500</text></svg>
+
+      </div>
+    </div>
+
+    <hr class="featurette-divider">
+
+    <!-- /END THE FEATURETTES -->
+
+  </div><!-- /.container -->
+
+
+  <!-- FOOTER -->
+  <footer class="container">
+    <p class="float-right"><a href="#">Back to top</a></p>
+    <p>&copy; 2017-2019 Company, Inc. &middot; <a href="#">Privacy</a> &middot; <a href="#">Terms</a></p>
+  </footer>
+</main>
+
+
+    
+      
+        <script src="docs/4.3/dist/js/bootstrap.bundle.js"></script>
+      
+
+      
+    
+  </body>
+</html>
