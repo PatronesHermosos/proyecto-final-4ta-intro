@@ -1,0 +1,7 @@
+html,
+body {
+    background: url("fondo\ 2.png") 
+    no-repeat center center fixed;  
+    -webkit-background-size: cover;
+ }
+  
