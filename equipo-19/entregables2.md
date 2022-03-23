@@ -27,8 +27,8 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
     </div>  
     <!-- MANUELAAAAA -->
     <div class="centrado"><body>
-        <p style="color:white;"> <FONT SIZE=5><font face="Comic Sans MS,arial,verdana">Esta pagina web esta diseñada con el fin de concientizar sobre la problematica de la desforestacion.
-            Informando del tema, sus causas,  <br >las consecuencias 
+        <p style="color:white;"> <FONT SIZE=5><font face="Comic Sans MS,arial,verdana">Esta pagina web esta diseñada con el fin
+            de concientizar sobre la problematica de la desforestacion. Informando del tema, sus causas,  <br >las consecuencias 
             y de las diferentes alternativas que podemos implementar para mitigar este problema que nos afecta a todos.</FONT></p>
       </body></div>
   
@@ -43,8 +43,7 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
 </body>
 </html>
 
-
- <!-- ESTILOS CSS-->
+/* ESTILOS CSS */
  
  /* BERNA */
  
