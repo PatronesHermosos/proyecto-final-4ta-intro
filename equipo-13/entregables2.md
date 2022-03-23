@@ -18,7 +18,7 @@
 - La lista de recursos y referencias que han usado:
 
 - Sitios web visitados:
-  * [Guía de información sobre violancia contra las mujeres](https://www.argentina.gob.ar/justicia/afianzar/caj/conoce-y-ejerce-tus-derechos/guia-de-informacion-sobre-violencia-contra-las-mujeres).
+  * [Guía de información sobre violencia contra las mujeres](https://www.argentina.gob.ar/justicia/afianzar/caj/conoce-y-ejerce-tus-derechos/guia-de-informacion-sobre-violencia-contra-las-mujeres).
   * [Violentómetro](https://www.google.com/search?q=violentometro+violencia+de+genero&sxsrf=APq-WBsIu4fJP1Gq716i9-hIEsT7LQyJVw:1647994830678&source=lnms&tbm=isch&sa=X&ved=2ahUKEwjAm-WT-9r2AhVKuJUCHTooCwYQ_AUoAXoECAEQAw&biw=1366&bih=625&dpr=1#imgrc=BFM-SurpoKJxUM).
   * [Altas funcionarias de la ONU examinan cómo acabar con la "emergencia invisible" de la violencia de género](https://news.un.org/es/story/2021/12/1501612).
  
