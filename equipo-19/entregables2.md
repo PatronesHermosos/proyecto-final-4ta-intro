@@ -33,7 +33,7 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
       </body></div>
   
  <!-- BERNA   --> -->
-  <div> 
+    <div> 
                 <audio controls loop>
                     <source src="price.mp3" autostarty="true" loop="tpue " volume="80" width="0" height="0">
                 </audio>
