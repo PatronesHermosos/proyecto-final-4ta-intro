@@ -2,7 +2,7 @@
 
 - Numero del equipo: 04
 - Nombre del equipo:Códigos violeta.
-- Nombre de todos miembros en su equipo:Angela Gutierrez- Ivett Requena Doria Medina- Verónica Méndez- Fernández Macarena- Alexia Giselle-
+- Nombre de todos miembros en su equipo:Angela Gutierrez- Ivett Requena Doria Medina- Verónica Méndez- Alexia Giselle-
 - El título de su proyecto:Violencia digital contra las mujeres
 - La lista de recursos y referencias que han usado: Fondo-(pixabay de uso gratuito). Botón e iconos: Nos apoyamos de getbootstrap.com (código abierto).Nosotras realizamos modificaciones al código para cambiar la posición y el estilo
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
