@@ -1,0 +1,50 @@
+/* Importación de la fuente "Arsenal" */
+@import url('https://fonts.googleapis.com/css2?family=Arsenal:wght@400;700&family=Baloo+Bhai+2:wght@700&family=Baloo+Bhaijaan+2&display=swap');
+
+/* Colores de la página */
+:root {
+    --azul1: #7490EB;
+    --azul2: #BCC8EE;
+    --azul3: #5A70B8;
+    --gris1: #555A6B;    
+}
+
+/* Fuente "Arsenal" en toda la página */
+* {
+    font-family: 'Arsenal', sans-serif;
+}
+
+/* Estilos del logo en la barra de navegación */
+.navbar-brand img {
+    border-radius: 50px;
+}
+
+/* Estilos del título en la barra de navegación */
+.navbar-titulo {
+    font-weight: bold;
+    color: var(--gris1);
+}
+
+/* Estilos de los botones en la barra de navegación */
+#navbarNav {
+    font-weight: bold;
+    color: var(--gris1);
+}
+
+.circulos img {
+    width: 18%;
+}
+
+.c_arriba {
+margin-top: 2%;
+margin-bottom: 4%;
+text-align: center;
+}
+
+.c_abajo {
+    text-align: center;
+}
+
+.c_abajo .circulo_1 {
+    margin-right: 15%;
+}
