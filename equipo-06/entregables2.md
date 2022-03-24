@@ -1,7 +1,7 @@
 ## Etapa 2 del proyecto final
 
 - Numero del equipo: 06
-- Nombre del equipo: code mind
+- Nombre del equipo: Code mind
 - Nombre de todos miembros en su equipo: Carballo Ramírez Hanny, Pamela Suarez, Norali Luna, Natalia Torregrosa
 - El título de su proyecto:  Salud Mental 
 - La lista de recursos y referencias que han usado
