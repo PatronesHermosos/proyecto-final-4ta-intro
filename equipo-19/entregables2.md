@@ -2,7 +2,7 @@
 
 - Numero del equipo: #19
 - Nombre del equipo: PATRONES VERDES
-- Nombre de todos miembros en su equipo: BERNA GONZÁLEZ, MANUELA LORA, ESTHER FLORES.
+- Nombre de todos miembros en su equipo: BERNA GONZÁLEZ, MANUELA LORA, ESTHER FLORES Y JOSSELYN ESPINOZA.
 - El título de su proyecto: VIDA TERRESTRE
 - La lista de recursos y referencias que han usado: www.pixabay.com www.onlinetutorialsweb.com https://ed.team/?=biografia_youtube https://youtube.com/chanel/UCXWFNMm90dinDv_CJ8zebtw {HTML AUDIO TAG} THE CODE BEHAVIOR 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/1yuHLULBXJ8
