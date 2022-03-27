@@ -19,3 +19,30 @@ No se olviden de entregar el código que ustedes han escrito para el proyecto fi
     <li><span style='font-family:"RonniaLigth",serif;font-size:13.5pt;color:#4C4C4C;'>La degradaci&oacute;n de la tierra, la disminuci&oacute;n de la fertilidad del suelo, el uso insostenible del agua, la sobrepesca y la degradaci&oacute;n del medio marino est&aacute;n disminuyendo la capacidad de la base de recursos naturales para suministrar alimentos.</span></li>
     <li><span style='font-family:"RonniaLigth",serif;font-size:13.5pt;color:#4C4C4C;'>El sector de la alimentaci&oacute;n representa alrededor del 30% del consumo total de energ&iacute;a en el mundo y un 22% del total de las emisiones de gases de efecto invernadero.</span></li>
 </ul>
+
+<html> 
+    <head> 
+        <style type="text/css"> 
+            body {  
+                color:blueviolet; 
+                background-color:coral 
+            } 
+            #seccion1{ 
+                font-size: 60px; 
+                text-aling: center; 
+                background-image: url(https://modasostenible.files.wordpress.com/2012/07/consumo-responsable1.jpg); 
+                background-size: 300px 100px; 
+            } 
+        </style> 
+ 
+    </head> 
+    <body> 
+        <section id="section1"> 
+            <h1>Bienvenido!</h1> 
+        </section> 
+        <section> 
+            <img src='https://modasostenible.files.wordpress.com/2012/07/consumo-responsable1.js'/> 
+            <p>Javascript</p> 
+        </section> 
+    </body> 
+    </html>
