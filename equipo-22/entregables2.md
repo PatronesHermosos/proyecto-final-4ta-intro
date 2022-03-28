@@ -11,7 +11,7 @@
 -Creative Cloud Express(gratuito,quitar fondo de imágenes)
 -Google
 -Visual Studio Code
--MDN Web Docs 
+-MDN Web Docs (para consultas de código para animaciones)
 -Canvas(gratuito para editar)
 -Pinterest(para descargar imágenes)
 
