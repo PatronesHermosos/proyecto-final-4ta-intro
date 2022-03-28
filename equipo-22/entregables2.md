@@ -1,7 +1,7 @@
 ## Etapa 2 del proyecto final
 
 - Numero del equipo: 22
-- Nombre del equipo:Powefull  girls
+- Nombre del equipo:Powefull  girls 22
 - Nombre de todos miembros en su equipo:-Ana Karen Gutierrez  Hurtado ,-Leydi Elizabeth Ortiz de Orue Huamani
 - El título de su paroyecto:Reducir la desigualdad en el mundo con la ayuda de todos  y construir un mundo bonito.
 - La lista de recursos y referencias que han usado:
