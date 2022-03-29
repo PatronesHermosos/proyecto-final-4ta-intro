@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <link href="homepage.css" rel="stylesheet">
+    
+    <style>
+
+        body, html {
+          height: 100%;
+          margin: 0;
+          
+        }
+        
+        .bg {
+          /* The image used */
+          background-image: url("fondo_estrellas.jpg");
+        
+          /* Full height */
+          height: 100%; 
+         /* AHIRAM: Agregue el width del fondo*/
+          width: 100%;
+
+
+          /* Center and scale the image nicely */
+          background-position: center;
+          background-repeat: no-repeat;
+          background-size: cover;
+        }
+        </style>
+  </head>
+  <body>
+    <div class="bg">
+         <!--AHIRAM: Agregué las propiedades width y height para que la imagen tenga el mismo tamaño 
+del círculo que la rodea y de esta manera no se cambie su tamaño al cambiar el tamaño de la pantalla -->
+
+        <img src="tierra.png" class="center" style="width: 220px; height: 220px">
+        
+        <!-- https://www.w3schools.com/howto/howto_css_image_center.asp --> 
+        <div style="
+        z-index:5;
+        position:absolute;
+ /*AHIRAM: Use la función calc() donde le dije posiciona el círculo al 50% de la pantalla (la mitad) y restale 175px (esto lo fuí calculando para que se viera centrado, ustedes podrían cambiar los pixeles)*/
+        left: calc(50% - 175px);
+/*AHIRAM: Usé la función calc()*/
+        top: calc(50% - 175px);
+        width: 250px;
+        height: 250px;
+        border-radius:50%;
+        border: 20px solid;
+        border-color: blueviolet"> </div>
+
+        <div style="
+        position: absolute;
+        width: 20px;
+        height:100px;
+/*AHIRAM: Usé la función calc() en left y top*/
+        left:calc(50% - 40px);
+        top: calc(50% + 115px);
+        background: blueviolet;""> </div>
+
+        <div style="
+        position: absolute;
+        width: 60px;
+        height: 20px;
+/*AHIRAM: Usé la función calc() en left y top*/
+        left: calc(50% - 60px);
+        top: calc(50% + 163px);
+        background: blueviolet;""> </div>
+
+    </div>
+  </body>
+
+
+</html>

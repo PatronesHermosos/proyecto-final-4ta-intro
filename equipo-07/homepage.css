@@ -1,0 +1,11 @@
+/*AHIRAM: De nuevo use la función calc() para posicionar la tierra al centro, los pixeles a restar los fuí calculando*/
+.center {
+  position: absolute;
+  left: calc(50% - 139px);
+  top: calc(50% - 141px);
+}
+
+/*
+imagen en pantalla completa:
+https://www.w3schools.com/howto/howto_css_full_page.asp
+*/
