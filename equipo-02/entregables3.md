@@ -4,6 +4,6 @@ La tercera etapa del proyecto final es ** opcional **. Ya que es la penúltima e
 
 - Número del equipo: 02
 - Nombre del equipo:Las renovables
-- Nombre de todos miembros en el equipo:
-- El título del proyecto:
+- Nombre de todos miembros en el equipo:Laura Falcon, Diana Gomez, Estefanía Galeano, Catherine Herrera
+- El título del proyecto:Fracking, sus consecuencias y la energía solar como solución
 - ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
