@@ -4,6 +4,6 @@ La tercera etapa del proyecto final es ** opcional **. Ya que es la penúltima e
 
 - Número del equipo: 04
 - Nombre del equipo:Códigos Violeta
-- Nombre de todos miembros en el equipo:
+- Nombre de todos miembros en el equipo:Angela Gutierrez- Ivett Requena Doria Medina- Verónica Méndez- Alexia Giselle-
 - El título del proyecto: Violencia digital contra las mujeres
 - ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
