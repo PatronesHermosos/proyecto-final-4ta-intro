@@ -2,7 +2,7 @@
 
 La tercera etapa del proyecto final es ** opcional **. Ya que es la penúltima entrega del proyecto final, esta tercera etapa representa la última oportunidad de recibir retroalimentación desde el equipo de moderadoras, ¡que se aprovechen de esa oportunidad!
 
-- Número del equipo:
+- Número del equipo:22
 - Nombre del equipo:
 - Nombre de todos miembros en el equipo:
 - El título del proyecto:
