@@ -48,7 +48,6 @@ body {
 }
 
 
-
 body { 
   background: #bbddee; 
   background: radial-gradient(ellipse cover, #fff 0%, #bbddee 100%); 
@@ -90,6 +89,7 @@ h1
 p{
   color: black;
     text-shadow: 2px 2px 2px #FFFFFF;
+      font-family: "cursive";
 }
 
 /* MARKETING CONTENT
@@ -145,3 +145,4 @@ p{
     margin-top: 7rem;
   }
 }
+
