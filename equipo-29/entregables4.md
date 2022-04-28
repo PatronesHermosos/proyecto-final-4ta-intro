@@ -1,7 +1,7 @@
 ## Etapa 4 del proyecto final
 
 -Número del equipo: 29
-Nombre del equipo: workmac
+Nombre del equipo: WorkMac
 Nombre de todos miembros en el equipo: Ailen Gusman Deresz, Maria Nataly Quiroga Olaya, Rebeca Tovar
 El título del proyecto: Trabajo digno
 - Resumen (2-3 frases) de su proyecto final:
