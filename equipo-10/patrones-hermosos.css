@@ -1,0 +1,23 @@
+
+body{
+    font-family:Ariel;
+    background-color: azure;
+}
+#img{
+    display:;
+    width: 300px;
+    height: 200px;
+}
+
+h1{
+    color: blueviolet;
+}
+
+h2{
+    color: blue;
+}
+img{
+    width: 300px;
+    height: auto;
+    margin: auto;
+}
