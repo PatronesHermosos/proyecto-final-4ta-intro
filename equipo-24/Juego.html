@@ -1,0 +1,102 @@
+<!DOCTYPE HTML>
+<html lang="es"> <!-- define el idioma-->
+<meta charset="utf-8"> <!-- define los carácteres usados-->
+<head> <title> La contaminación-Juego </title>
+    
+</head>
+
+<body> <link rel="stylesheet" href="./juego-css.css"> <!--unimos el css al html-->
+
+<!--tachos:-->
+<div id="tachoA" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/tachoA.png" width="100" height="150"ondragstart="drag(event)" id="tachoA"/>
+</div>
+
+<div id="tachoB" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/tachoB.png" width="100" height="150"ondragstart="drag(event)" id="tachoB"/>
+</div>
+
+<div id="tachoR" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/tachoR.png" width="100" height="150"ondragstart="drag(event)" id="tachoR"/>
+</div>
+
+<div id="tachoG" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/tachoG.png" width="100" height="150"ondragstart="drag(event)" id="tachoG"/>
+</div>
+
+<div id="tachoV" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/tachoV.png" width="100" height="150"ondragstart="drag(event)" id="tachoV"/>
+</div>
+
+<div id="tachoY" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/tachoY.png" width="100" height="150"ondragstart="drag(event)" id="tachoY"/>
+</div>
+
+<!--configuración del DRAG N DROP:-->
+<div id="image1" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/1.png" width="50" height="50"ondragstart="drag(event)" id="drag1"/>
+</div>
+
+<div id="image2" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/2.png" width="50" height="50" ondragstart="drag(event)" id="drag2"/>
+</div>
+
+<div id="image3" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/3.png" width="108" height="108" ondragstart="drag(event)" id="drag3"/>
+</div>
+
+<div id="image4" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/4.png" width="50" height="50" ondragstart="drag(event)" id="drag4"/>
+</div>
+
+<div id="image5" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/5.png" width="50" height="50" ondragstart="drag(event)" id="drag5"/>
+</div>
+
+<div id="image6" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/6.png" width="50" height="50" ondragstart="drag(event)" id="drag6"/>
+</div>
+
+<div id="image7" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/7.png" width="50" height="50" ondragstart="drag(event)" id="drag7"/>
+</div>
+
+<div id="image8" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/8.png" width="50" height="50"ondragstart="drag(event)" id="drag8" />
+</div>
+
+<div id="image9" draggable="true"ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/9.png" width="100" height="100" ondragstart="drag(event)" id="drag9"/>
+</div>
+
+<div id="image10" draggable="true" ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/10.png" width="100" height="100" ondragstart="drag(event)" id="drag10"/>
+</div>
+
+<div id="image11" draggable="true" ondrop="drop(event)" ondragover="allowDrop(event)">
+    <img src="./assets/11.png" ondragstart="drag(event)" width="50" height="50" id="drag11" />
+</div>
+
+
+<script> 
+
+/*conectar todo:
+ ONDRAGOVER = al mover a la lista...
+ ONDRAGSTART = al arrastrar...
+ ONDROP = Al soltar...*/
+ function drag(ev) {
+            ev.dataTransfer.setData("text", ev.target.id) //establece el tipo de dato + id a arrastrar
+        }
+        function allowDrop(ev) { //previene el formato default de html
+            ev.preventDefault();
+         }
+
+        function drop(ev) {
+            ev.preventDefault();
+            var data = ev.dataTransfer.getData("text");
+            ev.target.appendChild(document.getElementById(data));
+        } 
+
+</script>
+</body>
+</html>

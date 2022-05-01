@@ -1,0 +1,72 @@
+h1,p{
+    text-align: center;
+    background-color: rgba(233, 219, 219, 0.774);
+}
+
+h1{
+    font-family:"Water Brush"
+}
+u::before{
+    content:"seres vivos";
+    color:greenyellow
+}
+
+.otracosa{
+    background-color: rgba(112, 112, 207, 0.637);
+  border: 2px dashed black;
+  color:white
+}
+
+.enlaceGame{
+    text-align: center;
+    background-color: rgba(165, 42, 42, 0.651);
+}
+
+@font-face {
+    font-family: "Water Brush";
+    src: url("./WaterBrush-Regular.ttf");
+  }
+
+  
+hr{
+    height: 3px;
+    background-color: blueviolet;
+}
+
+body{
+    background-color:rgba(250, 235, 215, 0.534);
+    background-image: url("./Diseño\ sin\ título.png");
+    background-size: 20cm;    
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
+
+main{
+    background-color: rgba(210, 167, 253, 0.466);
+}
+
+.carretera{
+    transform: rotate(90deg);
+    
+}
+
+
+footer{
+    text-align: center;
+    background-color: rgba(255, 228, 196, 0.445);
+}
+
+.block{
+    text-align:center;
+    }
+    
+    .list{
+    text-align: center;
+    display:inline-block;
+}
+
+.texto{
+    text-align:center;
+}
+
