@@ -4,12 +4,10 @@ La tercera etapa del proyecto final es ** opcional **. Ya que es la penúltima e
 
 - Número del equipo:32
 - Nombre del equipo: soy tecnologica
-- Nombre de todos miembros en el equipo: verka estefania,oropeza ivon,  nydia de leon![female-gb35a428e3_1920](https://user-images.githubusercontent.com/100884361/166389713-6e432135-8e65-4fed-bea4-f04adb68ca06.png)
+- Nombre de todos miembros en el equipo: verka estefania,oropeza ivon,  nydia de leon
 
 - El título del proyecto : la lucha de las mujeres en la desigualdad economica 
-- ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!. quisiera saber sobre animacion , colocar imagene en figuras geometricas , como circulos y darles movimiento. 
-![female-gb35a428e3_1920](https://user-images.githubusercontent.com/100884361/166389749-ae32b38d-5650-4a6e-9b3d-d82eea9274aa.png)
-file:///C:/Users/ivono_000/Desktop/hello%20world/entregables.3/entregable.3.html
+- ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!. quisiera saber sobre animacion , colocar imagene en figuras geometricas , como circulos y darles movimiento. file:///C:/Users/ivono_000/Desktop/hello%20world/entregables.3/entregable.3.html
 codigo: 
 <!DOCTYPE html>
 <html lang="es">
