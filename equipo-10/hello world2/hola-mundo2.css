@@ -1,0 +1,23 @@
+body{
+    background-color:blanchedalmond;
+}
+h1{
+    color: blue;
+}
+
+$ (document).ready (function (){
+    $("img").mouseover(function(){
+        $(this).animate(
+            {
+                opacity:1
+            }
+        )    
+    })
+        $("img").mouseout(function(){
+            $(this).animate(
+                {
+                    opacity:0,5
+                }
+            )    
+        }) 
+})
