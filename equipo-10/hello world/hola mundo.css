@@ -1,0 +1,13 @@
+body{
+ background-color: beige;   
+}
+h1{
+ color: aqua; 
+ p {
+   font-size:Ariel ;  
+ } 
+}
+img{
+    width: 300px;
+    height: auto;
+}
