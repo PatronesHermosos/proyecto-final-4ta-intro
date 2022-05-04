@@ -10,10 +10,7 @@
 - Imagenes: (Fotos: Equipo de Periurbanos y Agroecología).
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
 - Algo más que quieren añadir sobre el proyecto:
-
-¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal en Github!
-codigo
-<!doctype html>
+- <!doctype html>
 <html lang="en">
   <head>
     <meta charset="utf-8">
@@ -25,14 +22,9 @@ codigo
 
     <link rel="canonical" href="https://getbootstrap.comdocs/4.3/examples/carousel/">
 
-    
-
     <!-- Bootstrap core CSS -->
 <link href="docs/4.3/dist/css/bootstrap.css" rel="stylesheet">
-
-
-
-    <!-- Favicons -->
+<!-- Favicons -->
 <link rel="apple-touch-icon" href="docs/4.3/assets/img/favicons/apple-touch-icon.png" sizes="180x180">
 <link rel="icon" href="docs/4.3/assets/img/favicons/favicon-32x32.png" sizes="32x32" type="image/png">
 <link rel="icon" href="docs/4.3/assets/img/favicons/favicon-16x16.png" sizes="16x16" type="image/png">
@@ -41,8 +33,6 @@ codigo
 <link rel="icon" href="docs/4.3/assets/img/favicons/favicon.ico">
 <meta name="msapplication-config" content="docs/4.3/assets/img/favicons/browserconfig.xml">
 <meta name="theme-color" content="#563d7c">
-
-
     <style>
       .bd-placeholder-img {
         font-size: 1.125rem;
@@ -52,26 +42,18 @@ codigo
         -ms-user-select: none;
         user-select: none;
       }
-
-      @media (min-width: 768px) {
+    @media (min-width: 768px) {
         .bd-placeholder-img-lg {
           font-size: 3.5rem;
         }
       }
     </style>
-
-    
     <!-- Custom styles for this template -->
     <link href="carousel.css" rel="stylesheet">
   </head>
   <body>
-    
-
-  
-
 <main role="main">
-
-  <div id="myCarousel" class="carousel slide" data-ride="carousel">
+<div id="myCarousel" class="carousel slide" data-ride="carousel">
     <ol class="carousel-indicators">
       <li data-target="#myCarousel" data-slide-to="0" class="active"></li>
       <li data-target="#myCarousel" data-slide-to="1"></li>
@@ -80,7 +62,6 @@ codigo
     <div class="carousel-inner">
       <div class="carousel-item active">
         <img src="07.jpg"  alt="...">
-
         <div class="container">
           <div class="carousel-caption text-left">
             <h1>Produccion sostenible de alimentos.</h1>
@@ -258,15 +239,6 @@ codigo
 
   </div><!-- /.container -->
 
-
-  
-
-    
-      
-        <script src="docs/4.3/dist/js/bootstrap.bundle.js"></script>
-      
-
-      
-    
-  </body>
-</html>
+    <script src="docs/4.3/dist/js/bootstrap.bundle.js"></script>
+      </body>
+    </html>
