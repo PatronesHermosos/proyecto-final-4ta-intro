@@ -20,7 +20,7 @@ Bibliografía utilizada en los botones informativos:
 -Oficina de Naciones Unidas (18-junio-2018), “Informe de la Relatora Especial sobre la violencia contra la mujer, sus causas y consecuencias acerca de la violencia en línea contra las mujeres y las niñas desde la perspectiva de los derechos humanos”. Organización de las Naciones Unidas.
 -Frente Nacional para la Sororidad, en Osorio, A. (16-junio-2019) “Violencias digitales, las otras violencias de género”. En Plumas Libres.
 -ONU Mujeres México (diciembre 2020), “Violencia contra mujeres y niñas en el espacio digital: Lo que es virtual también es real”. Página web oficial.
-- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/_pVhIIxf7z0 
 - Algo más que quieren añadir sobre el proyecto: La plataforma no deja cargar el video y el archivo “docs” del carrusel, por lo que les compartimos un link de drive para su consulta https://drive.google.com/drive/folders/1hDf70r35vtcjRDbaj-uuWdEjDz6Tieyc?usp=sharing 
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal en Github!
