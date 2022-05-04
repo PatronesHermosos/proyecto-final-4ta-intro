@@ -5,8 +5,7 @@
 - Nombre de todos los miembros en el equipo:Angela Gutierrez- Ivett Requena Doria Medina- Verónica Méndez- Alexia Giselle-
 - El título de su proyecto:Violencia digital contra las mujeres
 - Resumen (2-3 frases) de su proyecto final: Aprovechar las herramientas tecnológicas para informar, generar conciencia e incentivar la denuncia ante actos de violencia digital, con el fin de visibilizar sus repercusiones y romper con el desconocimiento y normalización de la violencia contra las mujeres en el ámbito digital.
-- La lista de recursos y referencias que han usado:
-- Fuentes y referencias utilizadas:
+- La lista de recursos y referencias que han usado
 
 Página Web
 -Se usó de base el código de la plantilla “Carousel” de Bootstrap haciendo modificaciones con el fin de adecuarlo a nuestras necesidades.
