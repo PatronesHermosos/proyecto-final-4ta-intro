@@ -12,7 +12,7 @@
 + https://unplash.com (Búsqueda de imagénes)
 + Clases del curso
 
-- Graben un video de 5-min sobre su proyecto.Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min sobre su proyecto.Pongan la liga del vídeo aquí: https://youtu.be/wqaFwVVV1bA
 
 
 - Algo más que quieren añadir sobre el proyecto: Fue un complicado pero hermoso proceso, me encantó el resultado
