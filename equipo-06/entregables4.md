@@ -18,7 +18,7 @@
 - Recursos:
     1. https://getbootstrap.com/
     2. https://github.com/VincentGarreau/particles.js
-- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://www.youtube.com/watch?v=HYMXClVvs4Y
+- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/0jDL909wK-Y
 - Algo más que quieren añadir sobre el proyecto: Al principio teníamos en mente un boceto, el cual a lo largo del camino se modfico. Finalmente, en lugar de un cerebro con movimiento, pusimos redes neuronales interactivas, un concepto muy relacionado con la salud mental.
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal en Github!
