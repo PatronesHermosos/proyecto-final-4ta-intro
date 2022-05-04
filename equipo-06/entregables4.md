@@ -3,8 +3,12 @@
 - Numero del equipo: 6
 - Nombre del equipo: Code Mind
 - Nombre de todos los miembros en el equipo: Hanny Carballo y Pamela Suarez
-- El título de su proyecto: 
+- El título de su proyecto: Code mind: Tu salud mental importa :)
+- Link a nuestra página web en internet: https://express-termination.000webhostapp.com/
 - Resumen (2-3 frases) de su proyecto final:
+   1. Salud mental e información para la comunidad.
+   2. Redes neuronales en movimiento. Cuando se pasa el cursor se mueven. 
+   3. 
 - La lista de recursos y referencias que han usado: 
 - Fuentes de consulta:
     1. https://www.isep.es/actualidad-psicologia-clinica/10-consejos-cuidar-salud-mental/
