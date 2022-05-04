@@ -1,3 +1,0 @@
-- Entregable 4
-- En esta carpeta se encuentran los archivos de nuestro proyecto terminado. 
-- Link de nuestra página web en internet: https://express-termination.000webhostapp.com/
