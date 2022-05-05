@@ -1,7 +1,7 @@
 ## Etapa 4 del proyecto final
 
-- Numero del equipo:
-- Nombre del equipo:
+- Numero del equipo:02
+- Nombre del equipo: Las Renovables
 - Nombre de todos los miembros en el equipo:
 - El título de su proyecto:
 - Resumen (2-3 frases) de su proyecto final:
