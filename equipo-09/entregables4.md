@@ -4,7 +4,7 @@
 
 - Nombre del equipo: Programadoras Feministas del Mar de Manzanas
 
-- Nombre de todos miembros en su equipo: Amador Pérez Andrea, Jade Vivancio, Pilar García y Denisse Vigueras. (**Sólo Denisse Vigueras continúa participando en el Trabajo Final**)
+- Nombre de todos miembros en su equipo: Denisse Vigueras
 
 - El título de su proyecto: "Quiz Feminista"
 
