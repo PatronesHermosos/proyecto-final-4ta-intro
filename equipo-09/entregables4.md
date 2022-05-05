@@ -4,7 +4,7 @@
 
 - Nombre del equipo: Programadoras Feministas del Mar de Manzanas
 
-- Nombre de todos miembros en su equipo: Denisse Vigueras
+- Nombre de todos miembros en su equipo: Denisse Vigueras (El resto del equipo ya no continuó en el curso/Trabajo Final)
 
 - El título de su proyecto: "Quiz Feminista"
 
