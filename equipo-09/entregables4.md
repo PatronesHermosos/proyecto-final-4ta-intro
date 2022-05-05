@@ -18,7 +18,7 @@
 - Imagen de fondo del quiz CC0 (Autora: Anni Roenkae): https://www.pexels.com/photo/purple-abstract-art-3109807/
 - Fonts Google "Lato": https://fonts.google.com/specimen/Lato?query=lato
 
-- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/1z1SKCu1_PE
+- Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/na8bVJ-QfMA
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal en Github!: OK
 
