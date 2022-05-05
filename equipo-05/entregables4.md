@@ -2,7 +2,7 @@
 
 - Numero del equipo: 05
 - Nombre del equipo: Las Pléyades
-- Nombre de todos los miembros en el equipo: Dayanna Paniagua, Sofia Albarracin, Janeth Trejo, Natalia Dalmau Vazllejos.
+- Nombre de todos los miembros en el equipo: Dayanna Paniagua, Sofia Albarracin, Janeth Trejo, Natalia Dalmau Vallejos.
 - El título de su proyecto: Desarrollo Sostenible
 - Resumen (2-3 frases) de su proyecto final: Ha  sido de mucha ayuda todos los conocimientos brindados, y la capacidad de enseñanza, supero nuestras expectativas.
 - La lista de recursos y referencias que han usado: •	https://www.Greenpeace.org 
