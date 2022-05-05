@@ -1,7 +1,7 @@
 ## Etapa 2 del proyecto final
 
 - Numero del equipo: 09
-- Nombre del equipo: Programadoras Feminsitas del Mar de Manzanas
+- Nombre del equipo: Programadoras Feministas del Mar de Manzanas
 - Nombre de todos miembros en su equipo: Amador Pérez Andrea, Jade Vivancio, Pilar García y Denisse Vigueras.
 - El título de su proyecto: En proceso "El arte de ser feminista", "Quiúbole con la violencia de género", "Las grandes feministas nacieron artistas" etc
 - La lista de recursos y referencias que han usado: 
