@@ -8,7 +8,7 @@ NOTA: **No se hizo entrega de avance de la etapa 3.**
 
 - Nombre del equipo: Programadoras Feministas del Mar de Manzanas
 
-- Nombre de todos miembros en el equipo: Amador Pérez Andrea, Jade Vivancio, Pilar García y Denisse Vigueras. (**Sólo continúa participando en el curso Denisse Vigueras**)
+- Nombre de todos miembros en el equipo: Denisse Vigueras (El resto del equipo ya no continuó en el curso/Trabajo Final)
 
 - El título del proyecto: "Quiz Feminista"
 
