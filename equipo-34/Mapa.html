@@ -1,0 +1,291 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="UTF-8">
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.7.1.js"></script>
+    <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jqueryui/1.8.16/jquery-ui.js"></script>
+     <body>
+        <style>
+
+    body {
+        margin: 0;
+        background-color: rgb(119, 185, 180);
+        align-items: center;
+        justify-content: center;
+        margin: 0 auto;
+        height: 100 ;
+      }
+
+      .triangulo {
+     position: absolute;
+     top: 0px;
+     width: 0; 
+     height: 0; 
+     border-left: 100px solid #169c5d;
+     border-top: 50px solid transparent;
+     border-bottom: 50px solid transparent; 
+     
+}
+
+.trianguloA {
+     position: absolute;
+     top: 30px;
+     left: 100px;
+     width: 0; 
+     height: 0; 
+     border-left: 50px solid #169c16;
+     border-top: 20px solid transparent;
+     border-bottom: 20px solid transparent; 
+     
+}
+
+      .container {
+        height: 430px;
+        background: #0f9bf6;
+        position: relative;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .content {
+        font-family: Arial;
+        text-align: center;
+        font-size: 2em;
+        color: rgba(165, 207, 200, 0.8);
+      }
+
+
+    span{
+     border:1px solid;
+     background:#89bb7c;
+     width:200px;
+     height:200px;
+     display:none;
+     position:absolute;
+   }
+
+      img{
+       opacity: 1;
+       position: relative;
+       bottom: -135px;
+       height: 527px;
+
+      }
+      .imgA{
+      position: absolute;
+      left: 750px;
+      bottom: -200px;
+      width: 160px;
+      height: 120px;
+      z-index: 1;
+
+      }
+
+      .imgB {
+      position: absolute;
+      left: 200px;
+      bottom: -100px;
+      width: 160px;
+      height: 120px;
+      z-index: 1;
+        
+      }
+
+      .imgC {
+      position: absolute;
+      left: 0 px;
+      top: 80px;
+      width: 160px;
+      height: 70px;
+      z-index: 1;
+        
+      }
+
+  
+      .waves {
+        position: absolute;
+  /*    left: 0;
+        right: 0;
+        height: 200px;
+        bottom: 0;*/
+        bottom: -100px;
+        height: 527px;
+        width: 100%;
+        overflow: hidden;
+      }
+      .wave {
+        position: absolute;
+        left: -180px;
+        bottom: 0;
+        /*width: 200px;*/
+        /*height: 200px;*/
+        /*width: 100%;*/
+        /*border-radius: 50%;*/
+        /*background:rgba(0,0,0, .3);*/
+        width: 1800px;
+        height: 800px;
+        background: url(https://static.platzi.com/media/files/waves_c8551f5d-ecf6-4a81-ae1d-f3a0ad55ba10.png) center bottom no-repeat;
+        animation: 5s wave ease-in-out infinite alternate;
+      }
+      .wave.a {
+        background-position: 0 -454px;
+        animation-delay: .3s;
+      }
+      .wave.b {
+        background-position: 0 -327px;
+        animation-delay: .6s;
+      }
+      .wave.c {
+        background-position: 0 -100px;
+        animation-delay: 1.2s;
+      }
+      /*.container {
+        position: absolute;
+      }*/
+      @keyframes wave {
+        0% {
+          transform: translate(0 , 0);
+        }
+        50% {
+          transform: translate(-80px, 30px);
+        }
+        100% {
+          transform: translate(160px, -60px);
+        }
+      }
+
+   
+
+      </style>
+
+<script>
+
+  var mouseX,mouseY,windowWidth,windowHeight;
+  var  popupLeft,popupTop;
+
+$(document).ready(function(){
+
+  $(document).mousemove(function(e){
+          mouseX = e.pageX;
+          mouseY = e.pageY;
+          //To Get the relative position
+          if( this.offsetLeft !=undefined)
+            mouseX = e.pageX - this.offsetLeft;
+          if( this.offsetTop != undefined)
+            mouseY = e.pageY; - this.offsetTop;
+
+          if(mouseX < 0)
+               mouseX =0;
+          if(mouseY < 0)
+              mouseY = 0;
+
+          windowWidth  = $(window).width()+$(window).scrollLeft();
+          windowHeight = $(window).height()+$(window).scrollTop();
+  });
+
+    $('html').click(function()
+    {
+
+    $('span').show();
+     var popupWidth  = $('span').outerWidth();
+     var popupHeight =  $('span').outerHeight();
+     
+     if(mouseX+popupWidth > windowWidth)
+       popupLeft = mouseX-popupWidth;
+     else
+      popupLeft = mouseX;
+
+     if(mouseY+popupHeight > windowHeight)
+       popupTop = mouseY-popupHeight;
+     else
+       popupTop = mouseY; 
+
+   if( popupLeft < $(window).scrollLeft()){
+    popupLeft = $(window).scrollLeft();
+   }
+
+   if( popupTop < $(window).scrollTop()){
+    popupTop = $(window).scrollTop();
+   }
+
+    if(popupLeft < 0 || popupLeft == undefined)
+          popupLeft = 0;
+     if(popupTop < 0 || popupTop == undefined)
+          popupTop = 0;
+
+     $('span').offset({top:popupTop,left:popupLeft});
+    });
+    
+});
+
+
+
+    
+ </script>
+  </head>
+ 
+
+ </body>
+   <div class="container">
+  <div class="content">
+  <img id="pez1" class="imgC" src="salmon.png">
+  <img id="pez2" class="imgB" src="pez.png" >
+  <p><img src="mapa_mundi2.jpg"></p>  
+  <img  class="imgA" src="pez.jpg" >
+  </div>
+</div>
+<span>
+  Comida Saludable 2200 kcal diarias adulto
+  desayuno:1 cucharada de miel con 2 tazas de fresas en una taza con avena humedecida.
+  almuerzo: 1 papa cocida con mantequilla de mani + 1/2 taza de frijoles
+  cena: 1/2 taza de quinoa con ensalada de zanahoria en vinagre y sal de mar + salmon/sardina al vapor.
+ </span>
+          <div class="waves">
+            <div class="wave circulo a"></div>
+            <div class="wave circulo b"></div>
+            <div class="wave circulo c"></div>
+            <div class="wave circulo d"></div>
+            <div class="wave circulo e"></div>
+        </div>
+
+        <div class="triangulo" ></div>
+        <div class="trianguloA" ></div>
+
+
+    <div style="
+z-index:5;
+opacity: 30%;
+position:absolute;
+left:50px;
+top:0px;
+width:200px;
+height:100px;
+border-radius:50%;
+background:rgba(122, 231, 88, 0.973)">
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:200px;
+top:20px;
+width:10px;
+height:10px;
+border-radius:50%;
+background:rgba(14, 13, 13, 0.973)">
+</div>
+
+<div style="
+z-index:5;
+position:absolute;
+left:220px;
+top:40px;
+width:30px;
+height:10px;
+background:rgba(14, 13, 13, 0.973)">
+</div>
+
+
+
+ </html> 
+
