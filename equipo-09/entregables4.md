@@ -13,7 +13,7 @@
 - La lista de recursos y referencias que han usado: 
 - Desarrollo del quiz: https://www.youtube.com/watch?v=Z-HLdIYHjRM&t=0s
 - Desarrollo del quiz: https://www.youtube.com/watch?v=Tf9hr4tmhK4&t=1684s
-- Imagen de fondo del quiz CCO (Autora: Anni Roenkae): https://www.pexels.com/photo/purple-abstract-art-3109807/
+- Imagen de fondo del quiz CC0 (Autora: Anni Roenkae): https://www.pexels.com/photo/purple-abstract-art-3109807/
 - Fonts Google "Lato": https://fonts.google.com/specimen/Lato?query=lato
 
 - Graben un video de 5-min usando el modelo “Entrega 2 Proyecto Final Patrones Hermosos”. Utilicen el template de diapositivas en nuestra plataforma, que está publicado en la plataforma, para grabar el video. Subanlo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/1z1SKCu1_PE
