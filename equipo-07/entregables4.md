@@ -5,6 +5,8 @@
 - Nombre de todos los miembros en el equipo: Ariana López Alarcón, Daniela Rodríguez Martínez, María Alejandra Tejada Hernández.
 - El título de su proyecto: Women Lift-Off
 - Resumen (2-3 frases) de su proyecto final: 
+Nuestra pieza de arte ilustra 4 ejemplos de cómo la tecnología espacial impacta en la solución de problemas globales: acción por el clima (ODS13), equidad de género (ODS5), educación de calidad (ODS 4) y alianzas estratégicas (ODS 17).
+
 - La lista de recursos y referencias que han usado:
 Imágenes ODS: https://www.un.org/sustainabledevelopment/es/news/communications-material/
 Imagen Satélite: Emoji Satelite descargado de https://pixomoji.com/emoji/satellite/
