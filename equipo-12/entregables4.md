@@ -3,6 +3,10 @@
 - Numero del equipo:
 - Nombre del equipo:
 - Nombre de todos los miembros en el equipo:
+Diana Guaiña
+Esther Sandoval
+Analía Fernández
+
 - El título de su proyecto:
 - Resumen (2-3 frases) de su proyecto final:
 - La lista de recursos y referencias que han usado:
