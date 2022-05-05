@@ -1,0 +1,212 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@300;400;700&display=swap');
+
+
+*{margin:0;
+padding:0;
+box-sizing: border-box;
+}
+body {
+    font-family: 'Lato', sans-serif;
+    background-image: url("../img/bg.png");
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+
+.container{
+    width:940px;
+    background-color: #fff;
+    box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.2);
+    min-height: 350px;
+    padding: 80px 90px;
+    border-radius: 10px;
+    display: flex;
+}
+
+.leftside , 
+.rightside {
+    width: 50%;
+}
+.leftside img {
+    height: 300px;
+    width: 300px;
+}
+
+.rightside h1 {
+    color:#11ac6b;
+    font-size: 32px;
+}
+
+.rightside h2 {
+    color:#444;
+    margin: 20px auto 10px;
+    font-size: 25px;
+}
+
+.rightside ul {
+    color:#444;
+    font-size: 18px;
+    margin-top: 5px;
+    font-weight: 600;
+    list-style-type: circle;
+    list-style-position: inside;
+}
+
+.rightside ul li{
+    margin-top: 5px;
+}
+
+.rightside a {
+    background-color: #11ac6b;
+    border-radius: 100px;
+    color: #fff;
+    width: 100%;
+    display: inline-block;
+    text-align: center;
+    padding: 15px 0;
+    margin-top: 25px;
+    text-decoration: none;
+    outline: none;
+}
+
+/* question page css starts */
+
+.box {
+    background-color: #fff;
+    border-radius: 10px;
+    box-shadow: 0 0 50px 0 rgba(0, 0, 0, 0.2);
+    min-height: 350px;
+    width: 640px;
+    padding: 50px;
+}
+
+.title {
+    border-bottom: 1px solid #464646;
+    color: #464646;
+    padding-bottom: 10px;
+    margin-bottom: 30px;
+    font-weight: 600;
+    font-size: 24px;
+}
+
+.header {
+    margin-bottom: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+.scoreBox,
+.timerBox{
+    border-radius: 100px;
+    padding: 10px 15px;
+    border: 1px solid #444;
+}
+
+.questionBox {
+    background-color: #594a76;
+    color: #fff;
+    border-radius: 10px;
+    padding: 10px 15px;
+}
+
+.optionBox {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin: 30px 0;
+    grid-gap: 15px;
+}
+
+.optionBox span {
+    background-color: #ccc;
+    border-radius: 10px;
+    color: #444;
+    border: 1px solid #444;
+    padding: 10px 15px;
+}
+
+.footer {
+    display: flex;
+    justify-content: space-between;
+}
+
+.footer button {
+    background-color: #11ac6b;
+    border-radius: 5px;
+    padding: 7px 15px;
+    color: #fff;
+    border: 0;
+    outline: none;
+    font-size: 20px;
+}  
+
+.resultBox {
+    margin-bottom: 30px;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-row-gap: 15px;
+    font-size: 20px;
+}
+
+.resultBox *:nth-child(odd) {
+    text-align: right;
+}
+
+.resultBox span {
+    font-weight: 600;
+}
+
+.buttonBox {
+    border-top: 1px solid #444;
+    text-align: center;
+}
+
+.buttonBox a {
+background-color: #11ac6b;
+border-radius: 50px;
+border: 0;
+text-decoration: none;
+color: #fff;
+outline: none;
+padding: 7px 15px;
+margin-top: 30px;
+display: inline-block;
+}
+
+.optionBox span.right{
+    background-color: #00ab00;
+    border-color:#00ab00;
+    color: #fff;
+}
+.optionBox span.wrong{
+    background-color: #ff3b0e;
+    border-color:#ff3b0e;
+    color: #fff;
+}
+
+
+/* question page css ends */
+
+
+
+
+/* media query starts */
+
+@media screen and (max-width: 768px) {
+    .leftside {
+        display: none;        
+    }
+    .container 
+    .box {
+        width: 425px;
+    }
+    .rightside {
+        width: 100%;
+    }
+    .optionBox {
+        grid-template-columns: 1fr;
+    }
+}
+/* media query ends */
+
+

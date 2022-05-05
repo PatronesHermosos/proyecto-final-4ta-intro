@@ -1,0 +1,68 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title> Patrones Hermosos / Programadoras Feministas del Mar de Manzanas - Online Quiz </title>
+        <link rel="stylesheet" href="css/style.css" />
+    </head>
+    <body>
+        <div class="box" id="questionScreen" >
+            <div class="title">
+                Quiz - PFMM
+            </div>
+
+            <div class="header">
+                <div class="scoreBox"> Puntaje: <span>0</span></div>
+                <div class="timerBox"> Tiempo restante: <span></span></div>
+            </div>
+
+            <div class="questionBox">
+                ¿Qué es el feminismo?
+            </div>
+
+            <div class="optionBox">
+                <span onclick="checkAnswer(this)" data-opt="1"> </span>
+                <span onclick="checkAnswer(this)" data-opt="2"> </span>
+                <span onclick="checkAnswer(this)" data-opt="3"> </span>
+                <span onclick="checkAnswer(this)" data-opt="4"> </span>
+            </div>
+
+            <div class="footer">
+                <button onclick="showNext()"> 
+                    Siguiente 
+                </button>
+                <button onclick="showResult(1)">
+                    Mostrar resultado
+                </button>
+            </div>
+
+        </div>
+
+        <div class="box" id="resultScreen" style="display: none;">
+            <div class="title">
+                Resultado del Quiz 
+            </div>
+
+            <div class="resultBox">
+                <label> Preguntas: </label>
+                <span id= "totalQuestion"> 10 </span>
+                <label> Intentos: </label>
+                <span id= "attemptQuestion"> 0 </span>
+                <label> Correctas: </label>
+                <span id= "correctAnswers"> 0 </span>
+                <label> Errores: </label>
+                <span id= "wrongAnswers"> 0 </span>
+            </div>
+            
+            <div class="buttonBox">
+                <a href="index.html"> Volver a iniciar </a>
+            </div>
+
+        </div>
+
+    </body>
+    <script src="js/jquery-3.5.1.min.js"></script>
+    <script src="js/quiz.js"></script>
+    <script src="js/script.js"></script>
+</html>
