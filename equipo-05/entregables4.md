@@ -18,7 +18,7 @@
 •	https://www.ecologiaverde.com/soluciones-para-la-contaminacion-luminica-1071.html
 •	https://www.greenfacts.org/es/desertificacion/l-2/6-prevencion-sostenibilidad.html
 
-- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/XJiXtkxwzLw
 - Algo más que quieren añadir sobre el proyecto: Que fue una excelente experiencia, nos llevamos lo mejor de este curso ;)
 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal en Github!
