@@ -1,15 +1,13 @@
-
 body{
     font-family:Ariel;
     background-color: azure;
 }
-#img{
-
-    display:none;
-    width: 400px;
-    margin: auto;
-   
+p{
+    font-size: 18px;
+    color: rgb(41, 41, 141);
 }
+
+   
 #titulo{
     font-size: 40px;
     text-align: center;
@@ -53,8 +51,15 @@ h1{
 h2{
     color: blue;
 }
+h3{
+    color: blue;
+}
+ul{
+    color: rgb(41, 41, 141);
+}
 img{
-    width: 300px;
+    margin: 10px;
+    width: 400px;
     height: auto;
-    margin: auto;
+   
 }
