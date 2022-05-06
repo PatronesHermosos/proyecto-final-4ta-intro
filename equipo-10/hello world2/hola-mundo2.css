@@ -4,20 +4,18 @@ body{
 h1{
     color: blue;
 }
-
-$ (document).ready (function (){
-    $("img").mouseover(function(){
-        $(this).animate(
-            {
-                opacity:1
-            }
-        )    
-    })
-        $("img").mouseout(function(){
-            $(this).animate(
-                {
-                    opacity:0,5
-                }
-            )    
-        }) 
-})
+h3{
+    color: blue;
+}
+img{
+    margin:10px ;
+}
+p{
+    font-size: 18px;
+}
+h2{
+    color: blue;
+}
+ul{
+    font-size: 18px;
+}
