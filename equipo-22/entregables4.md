@@ -7,6 +7,5 @@
 - Resumen (2-3 frases) de su proyecto final:
 - La lista de recursos y referencias que han usado:
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
-- Algo más que quieren añadir sobre el proyecto:
-
+- Algo más que quieren añadir sobre el proyecto:El proyecto nos sirvió mucho para aprender más de la programación y saber que podemos  contribuir de muchas formas haciendo uso de los temas que llevamos en el curso introductorio y así despertar nuestra creatividad y  así contribuir en el mundo 
 ¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal en Github!
