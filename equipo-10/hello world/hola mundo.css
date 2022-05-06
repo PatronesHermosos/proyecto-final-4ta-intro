@@ -1,13 +1,36 @@
 body{
+  margin: auto;
  background-color: beige;   
 }
 h1{
- color: aqua; 
- p {
-   font-size:Ariel ;  
- } 
+  text-align: center;
+  font-size: 40px;
+  font-family: Verdana;
+ color: rgb(112, 198, 51); 
 }
+ p {
+   color: rgb(52, 53, 146);
+   font-size: 20px;
+   font-family:ariel;  
+ }
+ h2{
+   font-size: 30px;
+   color: brown;
+ } 
+ h3{
+   color: brown;
+ }
+ ul{
+   font-size: 18px;
+   color:rgb(52, 53, 146) ;
+ }
+
 img{
     width: 300px;
+      font-size: 18px;
+    
     height: auto;
+}
+img{
+  margin: 10px;
 }
