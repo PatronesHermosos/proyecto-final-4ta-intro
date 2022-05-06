@@ -5,7 +5,7 @@ La tercera etapa del proyecto final es ** opcional **. Ya que es la penúltima e
 - Número del equipo:  Grupo 17
 - Nombre del equipo: Mentes Brillantes
 - Nombre de todos miembros en el equipo:  Karoll Gómez, Mahaleel Gutiérrez y Nadia Santillán
-- El título del proyecto: 
+- El título del proyecto: CuidArte
 - ¿Sobre qué les gustaría recibir sugerencias o ayuda de las moderadoras? Recuerdan que esta es la penúltima entrega antes de la entrega final y la presentación final, ¡así que aprovechan la oportunidad de recibir retroalimentación!
 - 
 - Espacio de preguntas :D
