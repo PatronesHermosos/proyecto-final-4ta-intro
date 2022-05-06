@@ -3,166 +3,291 @@
 /* Padding below the footer and lighter body text */
 
 body {
-    padding-top: 3rem;
-    padding-bottom: 3rem;
-    color: #5a5a5a;
-  }
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  color: #5a5a5a;
+}
+
+@import url(https://fonts.googleapis.com/css?family=The+Girl+Next+Door);
+
+.wrapper { padding: 5px; } aside { margin: auto; width: 900px; }
+
+@hueRotate: 10deg;
+
+
+.loading {
+ 
+  font-family: 'The Girl Next Door', cursive;
+  font-size: 26px; padding: 30px;
   
-  @import url(https://fonts.googleapis.com/css?family=The+Girl+Next+Door);
+  background-size: 130%;
+  -webkit-filter: hue-rotate(@hueRotate);
+  height: 120px; line-height: 120px;
+  color: white;
+  border-radius: 8px;
+  text-align: center;
+  box-shadow: 0 3px 6px rgba(0,0,0,0.4) inset;
   
-  .wrapper { padding: 5px; } aside { margin: auto; width: 900px; }
+  text-shadow: 0 2px 2px rgba(0,0,0,0.5);
   
-  @hueRotate: 10deg;
+  position: relative;  
+}
+
+
+@keyframes maskBorder {
   
-  
-  .loading {
-   
-    font-family: 'The Girl Next Door', cursive;
-    font-size: 26px; padding: 30px;
-    
-    background-size: 130%;
-    -webkit-filter: hue-rotate(@hueRotate);
-    height: 120px; line-height: 120px;
-    color: white;
-    border-radius: 8px;
-    text-align: center;
-    box-shadow: 0 3px 6px rgba(0,0,0,0.4) inset;
-    
-    text-shadow: 0 2px 2px rgba(0,0,0,0.5);
-    
-    position: relative;  
-  }
-  
-  
-  @keyframes maskBorder {
-    
-    0% { clip: rect(0,50px,10px,0); }
-    20% { clip: rect(0,200px,10px,0); }
-    35% { clip: rect(0,200px,10px,190px); }
-    50% { clip: rect(10px,200px, 50px, 190px); }
-    60% { clip: rect(40px,200px, 50px, 190px); }
-    70% { clip: rect(40px,200px, 50px, 0px); }
-    85% { clip: rect(40px,10px, 50px, 0px); }
-    90% { clip: rect(0,10px, 50px, 0px); }
-    100% { clip: rect(0,10px, 10px, 0px); }
-  }
-  
-  
-  
-  body { 
-    background: #bbddee; 
-    background: radial-gradient(ellipse cover, #fff 0%, #bbddee 100%); 
-    padding: 50px 100px; height: 500px; 
+  0% { clip: rect(0,50px,10px,0); }
+  20% { clip: rect(0,200px,10px,0); }
+  35% { clip: rect(0,200px,10px,190px); }
+  50% { clip: rect(10px,200px, 50px, 190px); }
+  60% { clip: rect(40px,200px, 50px, 190px); }
+  70% { clip: rect(40px,200px, 50px, 0px); }
+  85% { clip: rect(40px,10px, 50px, 0px); }
+  90% { clip: rect(0,10px, 50px, 0px); }
+  100% { clip: rect(0,10px, 10px, 0px); }
+}
+
+
+
+body { 
+  background: #bbddee; 
+  background: radial-gradient(ellipse cover, #fff 0%, #bbddee 100%); 
+  padding: 50px 100px; height: 500px; 
+}
+
+
+/* Carousel base class */
+.carousel {
+  margin-bottom: 4rem;
+}
+/* Since positioning the image, we need to help out the caption */
+.carousel-caption {
+  bottom: 3rem;
+  z-index: 10;
+}
+
+/* Declare heights because of positioning of img element */
+.carousel-item {
+  height: 32rem;
+}
+.carousel-item > img {
+  position: absolute;
+  top: 0;
+  left: 0;
+  min-width: 100%;
+  height: 32rem;
+}
+
+h1
+  {
+    text-shadow: 5px 5px #558ABB;
+  } 
+           
+p{
+  color: black;
+    text-shadow: 2px 2px 2px #FFFFFF;
+      font-family: "cursive";
+}
+
+/* MARKETING CONTENT
+-------------------------------------------------- */
+
+/* Center align the text within the three columns below the carousel */
+.marketing .col-lg-4 {
+  margin-bottom: 1.5rem;
+  text-align: center;
+}
+.marketing h2 {
+  font-weight: 400;
+}
+.marketing .col-lg-4 p {
+  margin-right: .75rem;
+  margin-left: .75rem;
+}
+
+
+/* Featurettes
+------------------------- */
+
+.featurette-divider {
+  margin: 5rem 0; /* Space out the Bootstrap <hr> more */
+}
+
+/* Thin out the marketing headings */
+.featurette-heading {
+  font-weight: 300;
+  line-height: 1;
+  letter-spacing: -.05rem;
+}
+
+
+/* RESPONSIVE CSS
+-------------------------------------------------- */
+
+@media (min-width: 40em) {
+  /* Bump up size of carousel content */
+  .carousel-caption p {
+    margin-bottom: 1.25rem;
+    font-size: 1.25rem;
+    line-height: 1.4;
   }
 
-  
-  /* Carousel base class */
-  .carousel {
-    margin-bottom: 4rem;
-  }
-  /* Since positioning the image, we need to help out the caption */
-  .carousel-caption {
-    bottom: 3rem;
-    z-index: 10;
-  }
-  
-  /* Declare heights because of positioning of img element */
-  .carousel-item {
-    height: 32rem;
-  }
-  .carousel-item > img {
-    position: absolute;
-    top: 0;
-    left: 0;
-    min-width: 100%;
-    height: 32rem;
-  }
-  
-  h1
-    {
-      text-shadow: 5px 5px #558ABB;
-    } 
-             
-  p{
-    color: black;
-      text-shadow: 2px 2px 2px #FFFFFF;
-        font-family: "cursive";
-  }
-  
-  /* MARKETING CONTENT
-  -------------------------------------------------- */
-  
-  /* Center align the text within the three columns below the carousel */
-  .marketing .col-lg-4 {
-    margin-bottom: 1.5rem;
-    text-align: center;
-  }
-  .marketing h2 {
-    font-weight: 400;
-  }
-  .marketing .col-lg-4 p {
-    margin-right: .75rem;
-    margin-left: .75rem;
-  }
-  
-  
-  /* Featurettes
-  ------------------------- */
-  
-  .featurette-divider {
-    margin: 5rem 0; /* Space out the Bootstrap <hr> more */
-  }
-  
-  /* Thin out the marketing headings */
   .featurette-heading {
-    font-weight: 300;
-    line-height: 1;
-    letter-spacing: -.05rem;
+    font-size: 50px;
   }
-  
-  
-  /* RESPONSIVE CSS
-  -------------------------------------------------- */
-  
-  @media (min-width: 40em) {
-    /* Bump up size of carousel content */
-    .carousel-caption p {
-      margin-bottom: 1.25rem;
-      font-size: 1.25rem;
-      line-height: 1.4;
-    }
-  
-    .featurette-heading {
-      font-size: 50px;
-    }
-  }
-  
-  @media (min-width: 62em) {
-    .featurette-heading {
-      margin-top: 7rem;
-    }
-  }
-  
-  h1, h2, h3, h4, h5, h6 {
-    margin-top: 0;
-    margin-bottom: 2rem;
-    font-weight: 300;
-  }
-  h1 {
-    font-size: 4.0rem;
-    line-height: 1.2;
-    letter-spacing: -.1rem;
-  }
+}
 
-  .title h1 {
-    font-size: 80px;
-    font-weight: 300;
-    text-transform: uppercase;
-    line-height: 0.85;
-    margin-bottom: 28px;
-    margin: 0;
-    padding: 0;
-    color: #FFFFFF;
+@media (min-width: 62em) {
+  .featurette-heading {
+    margin-top: 7rem;
   }
+}
 
+h1, h2, h3, h4, h5, h6 {
+  margin-top: 0;
+  margin-bottom: 2rem;
+  font-weight: 300;
+}
+h1 {
+  font-size: 4.0rem;
+  line-height: 1.2;
+  letter-spacing: -.1rem;
+}
+
+.title h1 {
+  font-size: 80px;
+  font-weight: 300;
+  text-transform: uppercase;
+  line-height: 0.85;
+  margin-bottom: 28px;
+  margin: 0;
+  padding: 0;
+  color: #FFFFFF;
+}
+
+
+
+/* buscador de palabra*/
+
+@import url('https://fonts.googleapis.com/css2?family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,100;1,200;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap');
+
+*{
+  margin: left;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: 'Poppins', sans-serif;
+}
+
+
+
+section{
+  display: flex;
+  flex-direction: left;
+  justify-content: left;
+  align-items: left;
+}
+
+
+input{
+  width: 50vw;
+  padding: 10px;
+  outline: none;
+  border: 5px solid #CCD1E4;
+  font-weight: 600;
+}
+
+#listaArticulos{
+  font-size: 15px;
+  margin-top: 20px;
+  list-style: none;
+  font-weight: 600;
+  color: #5a5a5a; 
+  text-align: column-reverse; float: left; width: 100%;
   
+}
+
+.filtro{
+  display: none;
+}
+
+
+
+/* pagina 2 */
+
+.snip1325 {
+position: relative;
+overflow: hidden;
+margin: 10px;
+min-width: 255px;
+max-width: 315px;
+height: 220px;
+width: 100%;
+box-shadow: 0 0 5px rgba(0, 0, 0, 0.15);
+}
+.snip1325 img {
+height: 100%;
+position: absolute;
+right: 0;
+-webkit-transition: all 2s ease-out;
+transition: all 2s ease-out;
+}
+.snip1325:hover img,
+.snip1325.hover img {
+-webkit-transform: translateX(130px);
+transform: translateX(130px);
+}
+/* Demo purposes only */
+body {
+background-color: #212121;
+}
+
+
+
+
+/* imagen pagina 3 */
+
+body {
+background-color: #4C4C4C;
+}
+
+.container {
+font-size: 0;
+width: 100%;
+margin-top: 50px;
+text-align: center;
+}
+
+.card {
+overflow: hidden;
+position: relative;
+display: inline-block;
+height: 400px;
+width: 600px;
+/*
+Each "card" is set to 600x400px because that is the size of  the image, adjust as needed. Make sure the overflow is set to hidden or else when the img scales it will clip with the other images.
+*/
+}
+
+.img-container {
+transition: transform .1s ease;
+}
+
+.img-container:hover {
+transform: scale(1.1);
+/*
+Change the scale value as much as you want to change the amount of zoom on hover.
+*/
+}
+
+.card img {
+opacity: .5;
+transform: translate(0,0);
+/*
+Change the opacity value to change how "faded" you want the image to appear when it is not hovered.
+*/
+transition: opacity .25s ease-in-out;
+}
+
+.card img:hover {
+opacity: 1;
+}

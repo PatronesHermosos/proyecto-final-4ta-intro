@@ -43,64 +43,121 @@
  <!-- About Section
  –––––––––––––––––––––––––––––––––––––––––––––––––– -->  
 
-
+ <hr class="featurette-divider">
 
     <!-- START THE FEATURETTES -->
 
-    <hr class="featurette-divider">
+    <section id="contenedor-main">
 
-    <div class="row featurette">
-      <div class="col-md-7">
-        <h2 class="featurette-heading" style="color:#336666">Consejos y bienestar de tu bebé</h2>
-        <p class="lead" style="font-family: cursive"> <br> &#42 A partir de los seis meses, pueden empezar a aparecer los primeros dientes del bebé, puedes paliar las molestias con algún mordedor sin PVC que puedes guardar en la nevera o el congelador para que calme a tu bebé si tiene las encías inflamadas o doloridas.</br>
-         <br> &#42 A través del cariño y del lenguaje de la música impulsamos y mejoramos las capacidades cognitivas. Entre ellas es especialmente interesante la fluidez cognitiva. </br>
-         <br> &#42 Si existe una predisposición familiar a las alergias, evita los peluches, las cortinas y los edredones de pluma natural, que son receptáculos de ácaros. </br>
-         <br> &#42 Mientras no camina, es difícil que el pequeño pueda hacerse daño, pero, en cuanto empieza a gatear, cualquier objeto y lugar se puede convertir en un peligro. </br>
-         <br> &#42 Avisarle siempre que te vayas (aunque te parezca que es demasiado pequeño para entenderlo), comunicándole cuándo piensas volver y prometiéndole que jugarás con él cuando vuelvas, pero sin acostumbrarle a traer regalos. ​</br>
-        <br> &#42 (18 meses) Comprarle un orinal de plástico de colores con una forma simpática y explicarle cómo se usa.  </br>
-        </p>
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" src="kelly-sikkema-WvVyudMd1Es-unsplash.jpg" >
-      </div>
+      <div>
+        <form class="form-inline ml-1 ml-0">
+        <input class="form-control ml-sm-1" type="text" name="buscador" id="buscador" placeholder="Buscar...">
+        </form>
 
+        <hr class="featurette-divider">
+
+
+        <div class="row featurette">
+          <div class="col-ml-1">
     
+            <ul id="listaArticulos">
+    
+              <font size=6> <li class="articulo" style="color:#336666">Consejos y bienestar de tu bebé   </li>
+              </font>
+          
+              
+              <li class="articulo" style="font-family: cursive"> <br> &#42 A partir de los seis meses, pueden empezar a aparecer los primeros dientes del bebé, puedes paliar las molestias con algún mordedor sin PVC que puedes guardar en la nevera o el congelador para que calme a tu bebé si tiene las encías inflamadas o doloridas. </br>
+              <li class="articulo" style="font-family: cursive"> <br> &#42 A través del cariño y del lenguaje de la música impulsamos y mejoramos las capacidades cognitivas. Entre ellas es especialmente interesante la fluidez cognitiva. </br>
+                <li class="articulo" style="font-family: cursive"> <br> &#42 Si existe una predisposición familiar a las alergias, evita los peluches, las cortinas y los edredones de pluma natural, que son receptáculos de ácaros. </br>
+                  <li class="articulo" style="font-family: cursive"> <br> &#42 Mientras no camina, es difícil que el pequeño pueda hacerse daño, pero, en cuanto empieza a gatear, cualquier objeto y lugar se puede convertir en un peligro. </br>
+                    <li class="articulo" style="font-family: cursive"> <br> &#42 Avisarle siempre que te vayas (aunque te parezca que es demasiado pequeño para entenderlo), comunicándole cuándo piensas volver y prometiéndole que jugarás con él cuando vuelvas, pero sin acostumbrarle a traer regalos. ​ </br>
+                      <li class="articulo" style="font-family: cursive"> <br> &#42 (18 meses) Comprarle un orinal de plástico de colores con una forma simpática y explicarle cómo se usa.                      </br>
+    
+    
+                      </ul>
+          </div>
+          </div>
+
     <hr class="featurette-divider">
 
-    <div class="row featurette">
-      <div class="col-md-7 order-md-2">
-        <h2 class="featurette-heading" style="color:#336666">El sueño de tu bebé</h2>
-        <p class="lead" style="font-family: cursive"> <br> &#42 Intenta favorecer el sueño nocturno de tu bebe adoptando algunas rutinas antes de ir a dormir y repitiéndolas todas las noches, de manera que el bebé se habitúe gradualmente.​ </br>
-          <br> &#42 Al respecto de las rutinas, la de establecer un horario fijo a la hora de acostar a tu bebé es también flexible, y no hace falta que el pequeño se acueste sí o sí a las 20h en punto, algo que puede angustiar a papá o mamá si uno de los dos trabaja hasta tarde y llega a casa cuando el bebé ya duerme. </br>
-           <br> &#42 Una vez que llegue la hora de dormir, tocará empezar con el ritual de masaje, canciones, cuentos, incorporar una luz tenue, etc, que hayas instaurado para que él sepa que se acerca la hora de irse a dormir.  </br>
-          <br> &#42 En caso de que el pequeño esté sufriendo una pesadilla o un sueño especialmente agitado, hay que acudir inmediatamente a consolarle, tranquilizarle y mimarle. Es aconsejable encender rápidamente la luz de la habitación, para que el niño retome el contacto con la realidad rápidamente. Después, se le acompaña un ratito hasta que vuelve a dormirse, pudiendo dejar un punto de luz encendido. </br>
-        </p>
-      </div>
-      <div class="col-md-5 order-md-1">
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" src="baby-1151351_1920.jpg" >
+  <!-- Container for the images. -->
 
+  <div class="container">
+    <!-- 
+      The markup for each image is a div with the class of card. 
+    -->
+    <div class="card">
+      <!-- 
+        Each "card" has an image container, this is because you need the image to scale and move, we want the scaling to have a smooth transition. However if you add a transition for transform the transform property it will apply to both the scaling and the translation, causeing the translation to "lag" because as it updates where the mouse position is. 
+      -->
+      <div class="img-container">
+        <img id="street" class="img" src="kelly-sikkema-WvVyudMd1Es-unsplash.jpg" width="500" height="500"  alt="street" />
       </div>
     </div>
+    
+  
+  
+      
+              <hr class="featurette-divider">
+  
+  
+              <div class="row featurette">
+                <div class="col-ml-1">
+          
+                  <ul id="listaArticulos">
+          
+                    <font size=6> <li class="articulo" style="color:#336666">El sueño de tu bebé                    </li>
+                    </font>
+                
+                    
+                    <li class="articulo" style="font-family: cursive"> <br> &#42 Se pone cosas en la boca para explorarlas Intenta favorecer el sueño nocturno de tu bebe adoptando algunas rutinas antes de ir a dormir y repitiéndolas todas las noches, de manera que el bebé se habitúe gradualmente.​</br>
+                    <li class="articulo" style="font-family: cursive"> <br> &#42 Al respecto de las rutinas, la de establecer un horario fijo a la hora de acostar a tu bebé es también flexible, y no hace falta que el pequeño se acueste sí o sí a las 20h en punto, algo que puede angustiar a papá o mamá si uno de los dos trabaja hasta tarde y llega a casa cuando el bebé ya duerme. </br>
+                      <li class="articulo" style="font-family: cursive"> <br> &#42 Una vez que llegue la hora de dormir, tocará empezar con el ritual de masaje, canciones, cuentos, incorporar una luz tenue, etc, que hayas instaurado para que él sepa que se acerca la hora de irse a dormir.</br>
+                        <li class="articulo" style="font-family: cursive"> <br> &#42 En caso de que el pequeño esté sufriendo una pesadilla o un sueño especialmente agitado, hay que acudir inmediatamente a consolarle, tranquilizarle y mimarle. Es aconsejable encender rápidamente la luz de la habitación, para que el niño retome el contacto con la realidad rápidamente. Después, se le acompaña un ratito hasta que vuelve a dormirse, pudiendo dejar un punto de luz encendido.</br>
+          
+                            </ul>
+                </div>
+                </div>
+          
+                
+                <div class="card">
+                  <div class="img-container">
+                    <img id="hill" class="img" src="baby-1151351_1920.jpg" width="500" height="500"  alt="hill" />
+                  </div>
+                </div>
+  
 
     <hr class="featurette-divider">
 
     
     <div class="row featurette">
-      <div class="col-md-7">
-        <h2 class="featurette-heading" style="color:#336666">Cómo estimular a tu bebé </h2>
-        <p class="lead" style="font-family: cursive">
-          <br> &#42 Con ejercicios de lenguaje musical, favorecerás la mejora de su capacidad para el futuro aprendizaje de idiomas </br>
-          <br> &#42 Cuando le enseñes un libro de ilustraciones, o incluso un álbum de fotos de la familia, amigos, viajes..., el pequeño no se despegará de vuestro lado durante un buen rato, un momento ideal para poner unas sesiones de lenguaje musical adaptado de fondo. </br>
-          <br> &#42 A través del cariño y del lenguaje de la música, impulsamos y mejoramos las capacidades lingüísticas y el aprendizaje. </br>
-          <br> &#42 Tu bebé necesita airearse, salir de casa y, siempre que sea posible, tener contacto con la naturaleza. ¿Qué mejor estímulo que conocer nuevos lugares, nuevos olores y nuevas formas? ¡Nada nos brinda mejor escenario para este tipo de necesidades que la naturaleza misma! Ya sea en el parque, en un verdadero paraje natural, delante del mar o incluso estando de picnic, puedes aprovechar el sonido ambiente real de la naturaleza para fusionarlo con el sonido de una sesión de ejercicios de lenguaje musical adaptado para tu bebé. </br>
-          <br> &#42 estimularemos su creatividad a través de la imaginación. ¿Sabes qué es la cognición simbólica? La cognición simbólica es la base del pensamiento abstracto. Se produce gracias a la suma de los módulos técnico, natural y social y dan lugar al arte. Es el último gran cambio del cerebro.   </br>
-        </p>
-      </div>
-      <div class="col-md-5 order-md-1">
-        <img class="bd-placeholder-img bd-placeholder-img-lg featurette-image img-fluid mx-auto" width="500" height="500" src="kevin-gent-mVk7pnnlULc-unsplash.jpg" >
+      <div class="col-ml-1">
 
-      </div>
-    </div>
+        <ul id="listaArticulos">
 
-    <hr class="featurette-divider">
+          <font size=6> <li class="articulo" style="color:#336666">Cómo estimular a tu bebé          </li>
+          </font>
+      
+          
+          <li class="articulo" style="font-family: cursive"> <br> &#42 Con ejercicios de lenguaje musical, favorecerás la mejora de su capacidad para el futuro aprendizaje de idiomas </br>
+          <li class="articulo" style="font-family: cursive"> <br> &#42  Cuando le enseñes un libro de ilustraciones, o incluso un álbum de fotos de la familia, amigos, viajes..., el pequeño no se despegará de vuestro lado durante un buen rato, un momento ideal para poner unas sesiones de lenguaje musical adaptado de fondo. </br>
+            <li class="articulo" style="font-family: cursive"> <br> &#42  A través del cariño y del lenguaje de la música, impulsamos y mejoramos las capacidades lingüísticas y el aprendizaje.            </br>
+              <li class="articulo" style="font-family: cursive"> <br> &#42 Tu bebé necesita airearse, salir de casa y, siempre que sea posible, tener contacto con la naturaleza. ¿Qué mejor estímulo que conocer nuevos lugares, nuevos olores y nuevas formas? ¡Nada nos brinda mejor escenario para este tipo de necesidades que la naturaleza misma! Ya sea en el parque, en un verdadero paraje natural, delante del mar o incluso estando de picnic, puedes aprovechar el sonido ambiente real de la naturaleza para fusionarlo con el sonido de una sesión de ejercicios de lenguaje musical adaptado para tu bebé. </br>
+                <li class="articulo" style="font-family: cursive"> <br> &#42  Estimularemos su creatividad a través de la imaginación. ¿Sabes qué es la cognición simbólica? La cognición simbólica es la base del pensamiento abstracto. Se produce gracias a la suma de los módulos técnico, natural y social y dan lugar al arte. Es el último gran cambio del cerebro. </br>
+                 
+                  </ul>
+      </div>
+      </div>
+
+      
+      <div class="card">
+        <div class="img-container">
+          <img id="hill" class="img" src="kevin-gent-mVk7pnnlULc-unsplash.jpg"  width="500" height="500"  alt="hill" />
+        </div>
+      </div>
+
+
+<hr class="featurette-divider">
 
     <!-- /END THE FEATURETTES -->
 
@@ -118,6 +175,7 @@
     
       
         <script src="docs/4.3/dist/js/bootstrap.bundle.js"></script>
+        <script src="prueba.js"></script>
 
         <script type="text/javascript">
           document.body.style.backgroundColor = "#CCCCFF";
