@@ -11,9 +11,13 @@ El tema que abordamos en el proyecto es la “Reducción de  las desigualdades�
 - La lista de recursos y referencias que han usado:
 
 - Componentes del código:
+
 CSS
+
 HTML
-JAVA SCRIP
+
+JAVA SCRIPT
+
 
 
 Recursos
