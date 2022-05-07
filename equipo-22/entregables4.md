@@ -9,11 +9,12 @@
 El tema que abordamos en el proyecto es la “Reducción de  las desigualdades”, es un tema complejo en todo el mundo, en la página podremos informarnos más acerca del objetivo y que cada persona se sienta importante en todo momento con su aporte para la reducción de las desigualdades y así  construir un mundo mejor.
 
 - La lista de recursos y referencias que han usado:
+
 - Componentes del código:
 - CSS
 - HTML
 - Java Script
-- 
+
 Recursos
 
 -Clase de Patrones hermosos
