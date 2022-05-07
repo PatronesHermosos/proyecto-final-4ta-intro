@@ -81,6 +81,6 @@ https://www.unenvironment.org/es
 https://www.un.org/sustainabledevelopment/es/
 
 - Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
-- Algo más que quieren añadir sobre el proyecto:
+- Algo más que quieren añadir sobre el proyecto: Me gustaría agregar un poco de animación en js para la última parte.
 
-¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal en Github!
+¡No se olviden de entregar todo el código y archivos (imagenes, GIFs, etc) para su proyecto final en su carpeta grupal en Github! :D
