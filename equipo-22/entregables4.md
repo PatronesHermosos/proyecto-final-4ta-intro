@@ -12,11 +12,11 @@ El tema que abordamos en el proyecto es la “Reducción de  las desigualdades�
 
 - Componentes del código:
 
-CSS
+-CSS
 
-HTML
+-HTML
 
-JAVA SCRIPT
+-JAVA SCRIPT
 
 
 
