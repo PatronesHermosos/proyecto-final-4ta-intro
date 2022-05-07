@@ -1,7 +1,7 @@
 ## Etapa 4 del proyecto final
 
-- Numero del equipo:
-- Nombre del equipo:
+- Número del equipo: 12
+- Nombre del equipo: EQUIDAD
 - Nombre de todos los miembros en el equipo:
 Diana Guaiña
 Esther Sandoval
