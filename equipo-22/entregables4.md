@@ -13,7 +13,7 @@ El tema que abordamos en el proyecto es la “Reducción de  las desigualdades�
 - CSS
 - HTML
 - Java Script
-Recursos:
+- Recursos:
 -Clase de Patrones hermosos
 Adobe stock(gratuito para descargar imágenes)
 Paint(editar imágenes)
@@ -32,10 +32,15 @@ StartBootstrap-Freelincer(David Miller,Derechos de autor 2013-2022 Iniciar Boots
 https://github.com/startbootstrap/startbootstrap-freelancer
 Imagenes:
 •	Imagen 1. Mapa 1. En “Mapa 1”,, https://www.google.com/search?q=mapamundi+designed+by+vexels&tbm=isch&hl=es-419&rlz=1C1GCEA_enBO970BO970&sa=X&ved=2ahUKEwi4vqLjkeD2AhVJKrkGHdbTAJ0QBXoECAEQOg&biw=1349&bih=663#imgrc=LUEsKs4Y56op2M&imgdii=PF6Al1TjHmr3QM. Derechos de autor [16/08/2014] por el Nombre del titular de los derechos de autor:Vexels.
+
 •	Imagen 2. Hombre 1. En “Hombre 1”,, https://www.di-capacitados.com/blog/beneficios-del-teletrabajo-para-las-personas-con-discapacidad. Derechos de autor [25/11/2020] por el Nombre del titular de los derechos de autor:Discapacitados.
+
 •	Imagen 3. Mujer 1. En “Mujer 1”,, https://www.freepik.es/fotos-premium/estilo-vida-emociones-personas-concepto-belleza-perfil-hermosa-chica-coreana-cabello-largo-oscuro-mirando-izquierda-pie-espalda-recta-ropa-casual-visite-peluqueria-salon-belleza_17278691.htm. Derechos de autor [25/11/2020] por el Nombre del titular de los derechos de autor:freepick o pinterest.
+
 •	Imagen 4. Globos 1. En “Globos 1”,, https://www.istockphoto.com/es/vector/un-mont%C3%B3n-de-globos-en-estilo-plano-de-dibujos-animados-aislados-sobre-fondo-blanco-gm1175737716-327525916. Derechos de autor [20/09/2019] por el Nombre del titular de los derechos de autor:Istockphoto by getty images.
-•	Imagen 5. Mundo 1. En “Mundo 1”,, https://es.vecteezy.com/arte-vectorial/2588201-mundo-planeta-tierra-sonriendo-caracter-linea-y-estilo-relleno. Derechos de autor [vecteezy] por el Nombre del titular de los derechos de autor:<a href="https://es.vecteezy.com/vectores-gratis/naturaleza">Naturaleza Vectores por Vecteezy</a>.
+
+•	Imagen 5. Mundo 1. En “Mundo 1”,, https://es.vecteezy.com/arte-vectorial/2588201-mundo-planeta-tierra-sonriendo-caracter-linea-y-estilo-relleno. Derechos de autor [vecteezy] por el Nombre del titular de los derechos de autor:<a href="https://es.vecteezy.com/vectores-gratis/naturaleza">Naturaleza Vectores por Vecteezy</a>
+
 •	Frase 1 ."Amor " https://es.wikipedia.org/wiki/Amor fecha de la publicación:última edición por última vez el 10 mar 2022.
 Links de otras imagenes:
 
