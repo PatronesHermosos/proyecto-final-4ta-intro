@@ -23,15 +23,25 @@ El tema que abordamos en el proyecto es la “Reducción de  las desigualdades�
 Recursos
 
 -Clase de Patrones hermosos
+
 Adobe stock(gratuito para descargar imágenes)
+
 Paint(editar imágenes)
+
 Creative Cloud Express(gratuito,quitar fondo de imágenes)
+
 Google
+
 Bootstraps
+
 Visual Studio Code
+
 MDN Web Docs(consultas de código)
+
 Canvas(gratuito para editar)
+
 Pinterest(para descargar imágenes)
+
 
 Bootstraps:
 Patrones hermosos-Carrusel
