@@ -38,7 +38,9 @@ Patrones hermosos-Carrusel
 https://dreamgrande.io/workshop/monday.html
 StartBootstrap-Freelincer(David Miller,Derechos de autor 2013-2022 Iniciar Bootstrap LLC. Código publicado bajo la licencia MIT.)
 https://github.com/startbootstrap/startbootstrap-freelancer
+
 Imagenes:
+
 •	Imagen 1. Mapa 1. En “Mapa 1”,, https://www.google.com/search?q=mapamundi+designed+by+vexels&tbm=isch&hl=es-419&rlz=1C1GCEA_enBO970BO970&sa=X&ved=2ahUKEwi4vqLjkeD2AhVJKrkGHdbTAJ0QBXoECAEQOg&biw=1349&bih=663#imgrc=LUEsKs4Y56op2M&imgdii=PF6Al1TjHmr3QM. Derechos de autor [16/08/2014] por el Nombre del titular de los derechos de autor:Vexels.
 
 •	Imagen 2. Hombre 1. En “Hombre 1”,, https://www.di-capacitados.com/blog/beneficios-del-teletrabajo-para-las-personas-con-discapacidad. Derechos de autor [25/11/2020] por el Nombre del titular de los derechos de autor:Discapacitados.
