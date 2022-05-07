@@ -89,7 +89,8 @@ Links de otras imagenes:
 
 
 
-- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: 
+- Graben un video de 5-min sobre su proyecto. Se puede utilizar la plantilla de diapositivas (“Entrega 4 Proyecto Final Patrones Hermosos”) en nuestra plataforma para grabar el video. (También mandamos la plantilla por correo.) Suban su vídeo a YouTube o Vimeo. Pongan la liga del vídeo aquí: https://youtu.be/ZoGNc9d794s
+
 - Algo más que quieren añadir sobre el proyecto:
 El proyecto nos sirvió mucho para aprender más acerca de la programación y despertó nuestra creatividad así como también saber que hay muchas formas de las que podamos aportar en el mundo y apoyarnos entre todos nosotros.
 
