@@ -13,7 +13,9 @@ El tema que abordamos en el proyecto es la “Reducción de  las desigualdades�
 - CSS
 - HTML
 - Java Script
-- Recursos:
+- 
+Recursos
+
 -Clase de Patrones hermosos
 Adobe stock(gratuito para descargar imágenes)
 Paint(editar imágenes)
@@ -42,6 +44,8 @@ Imagenes:
 •	Imagen 5. Mundo 1. En “Mundo 1”,, https://es.vecteezy.com/arte-vectorial/2588201-mundo-planeta-tierra-sonriendo-caracter-linea-y-estilo-relleno. Derechos de autor [vecteezy] por el Nombre del titular de los derechos de autor:<a href="https://es.vecteezy.com/vectores-gratis/naturaleza">Naturaleza Vectores por Vecteezy</a>
 
 •	Frase 1 ."Amor " https://es.wikipedia.org/wiki/Amor fecha de la publicación:última edición por última vez el 10 mar 2022.
+
+
 Links de otras imagenes:
 
 
